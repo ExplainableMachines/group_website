@@ -1,9 +1,7 @@
 # site properties and page defaults
 title: Explainable Machine Learning Group
 subtitle: 
-description: This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics.
-Here, we provide an overview as well as all the details on our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models,
-inherently interpretable neural network approaches, and their applications.
+description: This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview as well as all the details on our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.
 header: images/background.jpg
 footer: images/background.jpg
 
