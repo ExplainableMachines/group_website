@@ -1,9 +1,9 @@
 ---
 ---
 
-# ExplainableMachines's Website
+# Explainable Machine Learning Group Website
 
-An engaging 1-3 sentence description of your lab.
+This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview as well as all the details on our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.
 
 {% include section.html %}
 
@@ -11,12 +11,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Interested in Explainability of Machine Learning models? See at a glance!
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Overview"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,12 +34,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are interested in all facets of Explainability in Machine Learning and beyond.
+Get more information on individual projects from our group.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -59,7 +60,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Great research happens in a great environment.
+Meet our team that makes this possible.
 
 {%
   include button.html
