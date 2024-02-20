@@ -19,8 +19,6 @@ not reflect harmful biases. Such an understanding is not only interesting, but s
 
 {% include section.html %}
 
-### Global Explanations
-
 {% capture text %}
 
 *Post-hoc* explainability methods aim to provide explanations of what an already trained model, usually a neural network, learned and how it uses this information to arrive at a prediction.
@@ -34,6 +32,7 @@ We are interested in *global explanations* that describe the general information
 {%
   include feature.html
   image="images/totempole_explainn.png"
+  title="Global Explanations"
   text=text
 %}
 
