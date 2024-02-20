@@ -61,7 +61,7 @@ Get more information on individual projects from our group.
 {% capture text %}
 
 Great research happens in a great environment.
-Meet our team that makes this possible.
+Meet our diverse team that makes this possible!
 
 {%
   include button.html
