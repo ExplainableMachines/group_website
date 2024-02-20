@@ -1,18 +1,17 @@
 # site properties and page defaults
-title: ExplainableMachines
+title: Explainable Machine Learning Group
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics.
+Here, we provide an overview as well as all the details on our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models,
+inherently interpretable neural network approaches, and their applications.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@ExplainableMachines.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  google-scholar: Gfc2NA4AAAAJ
   github: ExplainableMachines
-  twitter: ExplainableMachines
-  youtube: ExplainableMachines
+  twitter: JonasFischerML
 
 ### jekyll settings
 
