@@ -507,7 +507,7 @@
 
 <p>Research is most fruitful (and most fun) at the intersection of different fields of research. At the core of our research is the development of methods that
 give <em>global, human-interpretable explanations</em> for complex machine learning models, as well as the development of <em>inherently interpretable</em> machine learning models.
-We study these topics touching the fields of <em>classical XAI, Data Mining, Neural Network Pruning, and Low-imensional Embeddings</em>,
+We study these topics touching the fields of <em>classical XAI, Data Mining, Neural Network Pruning, and Low-dimensional Embeddings</em>,
 merging ideas to for example obtain a better understanding of which information is encoded in a neural network and how information flows between layers, or to inform neuro-symbolic
 architecture designs for relevant problems in biology.</p>
 
@@ -537,10 +537,10 @@ not reflect harmful biases. Such an understanding is not only interesting, but s
     
     
 <p><em>Post-hoc</em> explainability methods aim to provide explanations of what an already trained model, usually a neural network, learned and how it uses this information to arrive at a prediction.
-While not fully transparent and providing only a glimpse into the black box models, these methods have the advantage that they do not compromise performance, which is a tremendously important feature of deep models. 
-The majority of these post-hoc explanation approaches, however, focus on <em>instance-specific explanations</em>, giving insights into why a decision was made for a particular instance (e.g., saliency maps, GradCam, Integrated Gradients,
+While not making the network fully transparent, by providing a glimpse into the black box models these methods have the great advantage that they do not compromise performance, which is a desiderata for a neural network. 
+The majority of post-hoc explanation approaches, however, focus on <em>instance-specific explanations</em>, giving insights into why a decision was made for a particular instance (e.g., saliency maps, GradCam, Integrated Gradients,
 LIME, …).
-We are interested in <em>global explanations</em> that describe the general information encoded for example by a group of neurons and discoverings such feature-encoding neuron groups in the first place.</p>
+We are interested in <em>global explanations</em> that describe the general information encoded for example by a group of neurons and discovering such feature-encoding neuron groups in the first place.</p>
 
 
   </div>
@@ -567,7 +567,7 @@ We are interested in <em>global explanations</em> that describe the general info
       <p class="feature-title">Neuro-symbolic architectures</p>
     
     
-<p>TODO</p>
+<p><em>Neuro-symbolic approaches</em> to machine learning promise full interpretability through <em>symbolic encodings</em> in a neural network that can be parsed and understood by a human domain expert. While highly interesting, these approaches remain largely theoretical, as such architectures are hard to define and even harder to optimize. We focus on recent advances for <em>binarized and ternarized neural network architectures</em> from different fields, such as ML for embedded devices, and how we can transfer these to neuro-symbolic learning. In several biological applications as well as settings with transactional data, such architectures already provide a fully interpretable approach that allows to derive new insights directly from the network.</p>
 
 
   </div>
@@ -585,7 +585,21 @@ We are interested in <em>global explanations</em> that describe the general info
   size: ;
 -->
 
-<h3 id="sparse-neural-networks">Sparse Neural Networks</h3>
+<div class="feature">
+  <a class="feature-image" aria-label="Sparse Neural Networks">
+    <img src="/group_website/images/pruning.png" loading="lazy" alt="Sparse Neural Networks" onerror="this.src = '/group_website/images/fallback.svg'; this.onerror = null;">
+  </a>
+  <div class="feature-text">
+    
+      <p class="feature-title">Sparse Neural Networks</p>
+    
+    
+<p><em>Sparse neural networks</em> not only provide more resource-efficient alternatives to their dense counterparts at same performance, captured by the <em>Lottery Ticket Hypothesis</em>, but also represent useful information in their network topology compared to the standard fully connected layers in dense networks.
+We focus on the question of how we can prune networks to <em>extreme sparsity</em>, and how such sparse neural networks can then yield more explainable decision-making.</p>
+
+
+  </div>
+</div>
   </section>
 
   
@@ -599,21 +613,24 @@ We are interested in <em>global explanations</em> that describe the general info
   size: ;
 -->
 
-<h3 id="low-dimensional-embeddings">Low-dimensional Embeddings</h3>
-  </section>
+<div class="feature">
+  <a class="feature-image" aria-label="Low-dimensional Embeddings">
+    <img src="/group_website/images/mnist_dtsne.png" loading="lazy" alt="Low-dimensional Embeddings" onerror="this.src = '/group_website/images/fallback.svg'; this.onerror = null;">
+  </a>
+  <div class="feature-text">
+    
+      <p class="feature-title">Low-dimensional Embeddings</p>
+    
+    
+<p>To discover and present <em>regularities and dependencies in complex, high-dimensional data</em>, human experts often resort to a visual exploration.
+As a visual inspection or presentation is bound to two or three-dimensional spaces, the field of <em>low-dimensional embeddings</em> focuses on developing methods
+to map high-dimensional data to such low-dimensional, visualizable spaces while <em>keeping the main structure of the data intact</em>.
+While these approaches enjoy tremendous interest in the sciences, such as biology, the limitations on what structures they preserves and which ones are lost, or which biases are introduced are under constant debate.
+We are interested in <em>studying these limitations</em> both empirically and theoretically, <em>develop novel approaches</em> to this problem, and use those to visually <em>explore the neural activation landscapes</em> of neural networks</p>
 
-  
-  
-  
 
-  <section class="background" data-size="page">
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-<h3 id="biological-applications">Biological Applications</h3>
+  </div>
+</div>
   </section>
 
   
