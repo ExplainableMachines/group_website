@@ -9,7 +9,16 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
-- 1/1/24 *The Explainable Machine Learning Group was founded.*
+{% capture lorem %}
+ 1/1/24 *The Explainable Machine Learning Group was founded.*
+{% endcapture %}
+
+{%
+  include alert.html
+  type="info"
+  content=content
+%}
+
 
 {% include section.html %}
 
