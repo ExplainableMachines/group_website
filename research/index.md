@@ -31,7 +31,7 @@ We are interested in *global explanations* that describe the general information
 
 {%
   include feature.html
-  image="images/totempole_explainn.png"
+  image="images/explainn.png"
   title="Global Explanations"
   text=text
 %}
@@ -41,11 +41,7 @@ We are interested in *global explanations* that describe the general information
 
 {% capture text %}
 
-*Post-hoc* explainability methods aim to provide explanations of what an already trained model, usually a neural network, learned and how it uses this information to arrive at a prediction.
-While not fully transparent and providing only a glimpse into the black box models, these methods have the advantage that they do not compromise performance, which is a tremendously important feature of deep models. 
-The majority of these post-hoc explanation approaches, however, focus on *instance-specific explanations*, giving insights into why a decision was made for a particular instance (e.g., saliency maps, GradCam, Integrated Gradients,
-LIME, ...).
-We are interested in *global explanations* that describe the general information encoded for example by a group of neurons and discoverings such feature-encoding neuron groups in the first place.
+TODO
 
 {% endcapture %}
 
