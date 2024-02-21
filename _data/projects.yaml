@@ -37,7 +37,6 @@
   image: images/binaps.png
   link: https://github.com/
   description: We propose a fully differentiable approach based on binary neural networks that allows to discover patterns through a neuro-symbolic architecture.
-  repo: greenelab/lab-website-template
   tags:
     - pattern mining
     - neuro-symbolic
@@ -56,7 +55,7 @@
 
 - title: Phoenix
   subtitle: Modeling gene regulatory dynamics
-  image: images/photo.jpg
+  image: images/phoenix.png
   link: https://github.com/QuackenbushLab/phoenix
   description: We propose an easy-to-interpret and highly efficient neural approach to model gene regulatory dynamics that allows to scale to large gene expression data.
   tags:
