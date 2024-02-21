@@ -445,7 +445,6 @@
 		<circle cx="123.5" cy="156.8" r="3.1" class="brainCircle"/>
 		<circle cx="214" cy="129" r="3.1" class="brainCircle"/>
 		</g>
-		</g>
 		</svg>
 		`;
 
