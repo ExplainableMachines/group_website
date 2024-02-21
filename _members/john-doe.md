@@ -3,8 +3,6 @@ name: John Doe
 image: images/photo.jpg
 role: phd
 group: alum
-links:
-  github: john-doe
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I am actively looking for PhD students! If you are a nice and open person, teamplayer, passionate about research and have a background in research related to Explainability, please \[[reach out](https://explainablemachines.github.io/group_website/contact/)\].

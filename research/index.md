@@ -160,7 +160,3 @@ Fischer, J, Schulz, MH, ***Fast and accurate bisulfite alignment and methylation
 ### Theses
 
 Fischer, J, More than the sum of its parts – pattern mining, neural networks, and how they complement each other. Doctoral Dissertation, 2022.  \[[PDF](https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/33893?locale=en)\]
-
-Fischer, J, Fast and accurate bisulfite alignment and methylation calling for mammalian genomes. Master thesis, 2017.
-
-Fischer, J, Inferring associations between transcription factors and histone modifications using a fused lasso approach. Bachelor thesis, 2015.
