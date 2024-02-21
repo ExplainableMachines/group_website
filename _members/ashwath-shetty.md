@@ -9,4 +9,4 @@ role: hiwi
 #   twitter: sarahjohnson
 ---
 
-Ashwath Shetty is a Master student at Saarland University investigating the link between sparsity of neural networks and explainability.
+Ashwath Shetty is a final year Master student at Saarland University studying Computer Science. In our group, he investigates the link between sparsity of neural networks and explainability.
