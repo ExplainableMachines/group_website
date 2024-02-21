@@ -17,15 +17,7 @@
   {% endif %}
 >
   <a href="{{ "/" | relative_url }}" class="home">
-    {% if logo %}
-      <span class="logo">
-        {% if svg %}
-          {{ svg | file_read }}
-        {% else %}
-          <img src="{{ logo | relative_url }}" alt="logo">
-        {% endif %}
-      </span>
-    {% endif %}
+    <div class="brainContainer"></div>
     {% if site.logo-text != false %}
       <span class="title" data-tooltip="Home">
         {% if site.title and site.show-title != false %}
