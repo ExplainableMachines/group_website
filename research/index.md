@@ -9,7 +9,7 @@ nav:
 
 Research is most fruitful (and most fun) at the intersection of different fields of research. At the core of our research is the development of methods that
 give *global, human-interpretable explanations* for complex machine learning models, as well as the development of *inherently interpretable* machine learning models.
-We study these topics touching the fields of *classical XAI, Data Mining, Neural Network Pruning, and Low-imensional Embeddings*,
+We study these topics touching the fields of *classical XAI, Data Mining, Neural Network Pruning, and Low-dimensional Embeddings*,
 merging ideas to for example obtain a better understanding of which information is encoded in a neural network and how information flows between layers, or to inform neuro-symbolic
 architecture designs for relevant problems in biology.
 
@@ -22,10 +22,10 @@ not reflect harmful biases. Such an understanding is not only interesting, but s
 {% capture text %}
 
 *Post-hoc* explainability methods aim to provide explanations of what an already trained model, usually a neural network, learned and how it uses this information to arrive at a prediction.
-While not fully transparent and providing only a glimpse into the black box models, these methods have the advantage that they do not compromise performance, which is a tremendously important feature of deep models. 
-The majority of these post-hoc explanation approaches, however, focus on *instance-specific explanations*, giving insights into why a decision was made for a particular instance (e.g., saliency maps, GradCam, Integrated Gradients,
+While not making the network fully transparent, by providing a glimpse into the black box models these methods have the great advantage that they do not compromise performance, which is a desiderata for a neural network. 
+The majority of post-hoc explanation approaches, however, focus on *instance-specific explanations*, giving insights into why a decision was made for a particular instance (e.g., saliency maps, GradCam, Integrated Gradients,
 LIME, ...).
-We are interested in *global explanations* that describe the general information encoded for example by a group of neurons and discoverings such feature-encoding neuron groups in the first place.
+We are interested in *global explanations* that describe the general information encoded for example by a group of neurons and discovering such feature-encoding neuron groups in the first place.
 
 {% endcapture %}
 
@@ -41,7 +41,7 @@ We are interested in *global explanations* that describe the general information
 
 {% capture text %}
 
-TODO
+*Neuro-symbolic approaches* to machine learning promise full interpretability through *symbolic encodings* in a neural network that can be parsed and understood by a human domain expert. While highly interesting, these approaches remain largely theoretical, as such architectures are hard to define and even harder to optimize. We focus on recent advances for *binarized and ternarized neural network architectures* from different fields, such as ML for embedded devices, and how we can transfer these to neuro-symbolic learning. In several biological applications as well as settings with transactional data, such architectures already provide a fully interpretable approach that allows to derive new insights directly from the network.
 
 {% endcapture %}
 
@@ -52,17 +52,41 @@ TODO
   text=text
 %}
 
-{% include section.html %}
-
-### Sparse Neural Networks
 
 {% include section.html %}
 
-### Low-dimensional Embeddings
+{% capture text %}
+
+*Sparse neural networks* not only provide more resource-efficient alternatives to their dense counterparts at same performance, captured by the *Lottery Ticket Hypothesis*, but also represent useful information in their network topology compared to the standard fully connected layers in dense networks.
+We focus on the question of how we can prune networks to *extreme sparsity*, and how such sparse neural networks can then yield more explainable decision-making.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/pruning.png"
+  title="Sparse Neural Networks"
+  text=text
+%}
 
 {% include section.html %}
 
-### Biological Applications
+{% capture text %}
+To discover and present *regularities and dependencies in complex, high-dimensional data*, human experts often resort to a visual exploration.
+As a visual inspection or presentation is bound to two or three-dimensional spaces, the field of *low-dimensional embeddings* focuses on developing methods
+to map high-dimensional data to such low-dimensional, visualizable spaces while *keeping the main structure of the data intact*.
+While these approaches enjoy tremendous interest in the sciences, such as biology, the limitations on what structures they preserves and which ones are lost, or which biases are introduced are under constant debate.
+We are interested in *studying these limitations* both empirically and theoretically, *develop novel approaches* to this problem, and use those to visually *explore the neural activation landscapes* of neural networks
+
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/mnist_dtsne.png"
+  title="Low-dimensional Embeddings"
+  text=text
+%}
 
 {% include section.html %}
 
