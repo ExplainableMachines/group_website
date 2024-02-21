@@ -1,47 +1,66 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: ExplaiNN
+  subtitle: Discovering patterns of neuron activations
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://eda.rg.cispa.io/prj/explainn/
+  description: We propose an algorithm that allows to find rules of neuron activations that describe how information is encoded and flowswithin a Neural Network, and allows to super-charge prototyping.
   tags:
-    - resource
+    - global explanations
+    - pattern mining
+    - rules
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Plant'n'Seek
+  subtitle: Can you find the winning ticket?
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://github.com/RelationalML/PlantNSeek
+  description: We study whether current limitations in network pruning are algorithmic or foundational by crafting hidden lottery tickets in large neural networks for bechnmarking.
   tags:
-    - resource
+    - benchmark
+    - LTH
+    - Pruning
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: Premise
+  subtitle: Label-descriptive patterns
+  group: featured
+  image: images/photo.jpg
+  link: https://github.com/uds-lsv/PyPremise
+  description: We propose the algorithm Premise to discover label-descriptive patterns, which we show to be highly useful in characterizing classification errors in multimodal and language models.
+  tags:
+    - global explanations
+    - pattern mining
+    - differential patterns
+
+
+- title: Binaps
+  subtitle: Differentiable pattern mining
   image: images/photo.jpg
   link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: We propose a fully differentiable approach based on binary neural networks that allows to discover patterns through a neuro-symbolic architecture.
   repo: greenelab/lab-website-template
   tags:
-    - resource
-    - publication
+    - pattern mining
+    - neuro-symbolic
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: Diffnaps
+  subtitle: Finding class-specific pattern through efficient neural search
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://eda.rg.cispa.io/prj/diffnaps/
+  description: We propose an efficient approach to learn class-specific pattern through a novel neuro-symbolic architecture, which is fully interpretable yet scalable to hundreds of thousands of features.
   tags:
-    - software
+    - pattern mining
+    - differential patterns
+    - neuro-symbolic
+
+
+- title: Phoenix
+  subtitle: Modeling gene regulatory dynamics
+  image: images/photo.jpg
+  link: https://github.com/QuackenbushLab/phoenix
+  description: We propose an easy-to-interpret and highly efficient neural approach to model gene regulatory dynamics that allows to scale to large gene expression data.
+  tags:
+    - neural ODE
+    - inherently interpretable
+    - biology
+
