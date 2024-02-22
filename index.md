@@ -41,7 +41,7 @@ Interested in Explainability of Machine Learning models? See at a glance!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://imgs.xkcd.com/comics/machine_learning.png"
   link="research"
   title="Our Research"
   text=text
