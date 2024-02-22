@@ -524,6 +524,6 @@
 		setColors("dark");
 	};
 
-  // after page loads
-  window.addEventListener("load", onLoad);
+    // after page loads
+    window.addEventListener("load", onLoad);
 }
