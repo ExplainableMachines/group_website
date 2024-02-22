@@ -40,9 +40,6 @@ header a {
   max-width: 800px;
   position: absolute;
   overflow: hidden;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
   cursor: pointer;
   z-index: -1;
 }
@@ -53,9 +50,6 @@ svg {
   max-height: 100%;
   max-width: 100%;
   position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
 }
 
 path {
@@ -218,9 +212,6 @@ header[data-big] .brainContainer {
   max-width: 800px;
   position: absolute;
   overflow: hidden;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
   cursor: pointer;
   z-index: -1;
 }
