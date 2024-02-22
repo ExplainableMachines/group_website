@@ -37,7 +37,7 @@ header a {
 .brainContainer {
   height: 80px;
   max-height: 400px;
-  max-width: 800px;
+  max-width: 400px;
   position: absolute;
   overflow: hidden;
   cursor: pointer;
@@ -209,7 +209,7 @@ header[data-big] .logo {
 header[data-big] .brainContainer {
   height: 160px;
   max-height: 400px;
-  max-width: 800px;
+  max-width: 400px;
   position: absolute;
   overflow: hidden;
   cursor: pointer;
