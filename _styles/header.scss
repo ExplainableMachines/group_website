@@ -47,7 +47,8 @@ header a {
 }
 
 .brainContainer{
-  height:$logo;
+  height:50vw;
+  width:50vw;
   max-height:400px;
   max-width:400px;
   position:absolute;
@@ -67,53 +68,53 @@ svg{
   transform:translate(-50%,-50%);
 }
 path{
-fill:transparent;
+  fill:transparent;
 }
 .brainPath{
-stroke:#00ff00;
-stroke-width:1;
+  stroke:#00ff00;
+  stroke-width:1;
 }
 .brainCircle{
-stroke:#00FF00;
-fill:#00FF00;
+  stroke:#00FF00;
+  fill:#00FF00;
 }
 .brainRect{
-stroke:#00FF00;
-fill:#00FF00;
+  stroke:#00FF00;
+  fill:#00FF00;
 }
 .brainEllipse{
-stroke:#00FF00;
-fill:#00FF00;
+  stroke:#00FF00;
+  fill:#00FF00;
 }
 .animatePaths{
-animation: goPath 3000ms alternate infinite;
+  animation: goPath 3000ms alternate infinite;
 }
 .animateCircles{
-animation: goCircle 3000ms alternate infinite;
+  animation: goCircle 3000ms alternate infinite;
 }
 .animateRects{
-animation: goRect 3000ms alternate infinite;
+  animation: goRect 3000ms alternate infinite;
 }
 @keyframes goPath {
-to {
-  stroke-dashoffset: 0;
-}
+  to {
+    stroke-dashoffset: 0;
+  }
 }
 @keyframes goRect {
-to {
-  opacity:0;
-}
+  to {
+    opacity:0;
+  }
 }
 @keyframes goCircle {
-0% {
-  opacity:0;
-}
-50% {
-  opacity:1;
-}
-100% {
-  opacity:0;
-}
+  0% {
+    opacity:0;
+  }
+  50% {
+    opacity:1;
+  }
+  100% {
+    opacity:0;
+  }
 }
 
 .title {
