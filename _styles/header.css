@@ -37,8 +37,8 @@ header a {
 .brainContainer {
   height: 50vw;
   width: 50vw;
-  max-height: 400px;
-  max-width: 400px;
+  max-height: 80px;
+  max-width: 80px;
   position: absolute;
   left: 50%;
   top: 50%;
