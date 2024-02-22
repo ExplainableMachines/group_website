@@ -47,6 +47,7 @@ header a {
 }
 
 .brainContainer{
+  height:$logo;
   width:$logo;
   max-height:400px;
   max-width:400px;
@@ -219,6 +220,7 @@ header[data-big] {
     height: $logo-big;
   }
   .brainContainer{
+    height:$logo-big;
     width:$logo-big;
     max-height:400px;
     max-width:400px;
