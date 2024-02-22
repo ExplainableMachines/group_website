@@ -27,7 +27,7 @@ header a {
 }
 
 .logo {
-  height: 60px;
+  height: 80px;
 }
 
 .logo > * {
@@ -35,8 +35,8 @@ header a {
 }
 
 .brainContainer {
-  height: 60px;
-  width: 60px;
+  height: 80px;
+  width: 80px;
   max-height: 400px;
   max-width: 400px;
   position: absolute;
