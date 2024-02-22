@@ -61,23 +61,23 @@ path {
 }
 
 .brainPath {
-  stroke: #00ff00;
+  stroke: #fffff0;
   stroke-width: 1;
 }
 
 .brainCircle {
-  stroke: #00FF00;
-  fill: #00FF00;
+  stroke: #FCF4D9;
+  fill: #FCF4D9;
 }
 
 .brainRect {
-  stroke: #00FF00;
-  fill: #00FF00;
+  stroke: #EDE6D6;
+  fill: #EDE6D6;
 }
 
 .brainEllipse {
-  stroke: #00FF00;
-  fill: #00FF00;
+  stroke: #FCF4D9;
+  fill: #FCF4D9;
 }
 
 .animatePaths {
