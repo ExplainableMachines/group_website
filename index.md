@@ -65,7 +65,7 @@ Get more information on individual projects from our group.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://imgs.xkcd.com/comics/dependency.png"
   link="projects"
   title="Our Projects"
   flip=true
@@ -91,7 +91,7 @@ Meet our diverse team that makes this possible!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="https://imgs.xkcd.com/comics/i_in_team.png"
   link="team"
   title="Our Team"
   text=text
