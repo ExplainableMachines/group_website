@@ -1,7 +1,7 @@
 ---
 ---
 
-# Explainable Machine Learning Group Website
+# Explainable Machine Learning Group Homepage
 
 This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview as well as all the details on our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.
 
