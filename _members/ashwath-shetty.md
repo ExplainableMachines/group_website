@@ -1,6 +1,6 @@
 ---
 name: Ashwath Shetty
-image: images/photo.jpg
+image: images/AshwathShetty_photo.jpg
 description: Research Assistant
 role: hiwi
 # links:\
