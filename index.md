@@ -42,7 +42,7 @@ Interested in Explainability of Machine Learning models? See at a glance!
 {%
   include feature.html
   image="https://imgs.xkcd.com/comics/machine_learning.png"
-  link="research"
+  link="https://imgs.xkcd.com/comics/machine_learning.png"
   title="Our Research"
   text=text
 %}
@@ -66,7 +66,7 @@ Get more information on individual projects from our group.
 {%
   include feature.html
   image="https://imgs.xkcd.com/comics/dependency.png"
-  link="projects"
+  link="https://imgs.xkcd.com/comics/dependency.png"
   title="Our Projects"
   flip=true
   style="bare"
@@ -92,7 +92,7 @@ Meet our diverse team that makes this possible!
 {%
   include feature.html
   image="https://imgs.xkcd.com/comics/i_in_team.png"
-  link="team"
+  link="https://imgs.xkcd.com/comics/i_in_team.png"
   title="Our Team"
   text=text
 %}
