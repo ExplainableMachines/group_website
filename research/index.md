@@ -97,8 +97,8 @@ We are interested in *studying these limitations* both empirically and theoretic
 
 Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** accepted at AAAI Conference on Artificial Intelligence (AAAI), 2024. (23.8% acceptance rate, Core A*) \[[preprint](https://arxiv.org/abs/2312.04311)\]
 
-Hossain, I‡, Fischer, J‡, Burkholz, R&ast;, Quackenbush, J&ast;, ***Not all tickets are equal and we know it: Guiding pruning with domain-specific knowledge*** preprint: arXiv:2403.04805, 2024 \[[preprint](https://arxiv.org/abs/2403.04805)\]\
-‡&ast;equal contribution
+Hossain, I‡, Fischer, J‡, Burkholz, R\*, Quackenbush, J\*, ***Not all tickets are equal and we know it: Guiding pruning with domain-specific knowledge*** preprint: arXiv:2403.04805, 2024 \[[preprint](https://arxiv.org/abs/2403.04805)\]\
+‡\*equal contribution
 
 Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** accepted at conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567119v1)\]\
 ‡equal contribution
