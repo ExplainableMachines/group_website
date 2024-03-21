@@ -97,14 +97,17 @@ We are interested in *studying these limitations* both empirically and theoretic
 
 Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** accepted at AAAI Conference on Artificial Intelligence (AAAI), 2024. (23.8% acceptance rate, Core A*) \[[preprint](https://arxiv.org/abs/2312.04311)\]
 
-Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** accepted at conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567119v1)\]
+Hossain, I‡, Fischer, J‡, Burkholz, R&ast;, Quackenbush, J&ast;, ***Not all tickets are equal and we know it: Guiding pruning with domain-specific knowledge*** preprint: arXiv:2403.04805, 2024 \[[preprint](https://arxiv.org/abs/2403.04805)\]\
+‡&ast;equal contribution
+
+Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** accepted at conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567119v1)\]\
 ‡equal contribution
 
 Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, ***Biologically informed NeuralODEs for genome-wide regulatory dynamics*** preprint: bioRxiv:10.1101/2023.02.24.529835v2, 2024 \[[preprint](https://www.biorxiv.org/content/10.1101/2023.02.24.529835v2)\]
 
 ### 2023
 
-Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Understanding and Mitigating Classification Errors Through Interpretable Token Patterns*** Empirical Methods in Natural Language Processing (EMNLP) BlackboxNLP workshop, 2023. \[[preprint](https://arxiv.org/abs/2311.10920)\]
+Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Understanding and Mitigating Classification Errors Through Interpretable Token Patterns*** Empirical Methods in Natural Language Processing (EMNLP) BlackboxNLP workshop, 2023. \[[preprint](https://arxiv.org/abs/2311.10920)\]\
 ‡equal contribution
 
 Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** preprint: bioRxiv:10.1101/2023.09.22.559001v1, 2023. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\]
@@ -117,7 +120,7 @@ Fischer, J, Schulz, MH, ***Efficiently Quantifying DNA Methylation for Bulk- and
 
 ### 2022
 
-Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Label-Descriptive Patterns and their Application to Characterizing Classification Errors***. In: Proceedings of the International Conference on Machine Learning (ICML), PMLR, 2022. (21.9% acceptance rate, Core A*)  \[[PDF](https://proceedings.mlr.press/v162/hedderich22a/hedderich22a.pdf)\]
+Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Label-Descriptive Patterns and their Application to Characterizing Classification Errors***. In: Proceedings of the International Conference on Machine Learning (ICML), PMLR, 2022. (21.9% acceptance rate, Core A*)  \[[PDF](https://proceedings.mlr.press/v162/hedderich22a/hedderich22a.pdf)\]\
 ‡equal contribution
 
 Fischer, J, Burkholz, R, ***Plant 'n' Seek: Can You Find the Winning Ticket?***
@@ -134,7 +137,7 @@ Fischer, J, Oláh, A, Vreeken, J, ***What's in the Box? Explaining Neural Networ
 
 Fischer, J, Ardakani, FB, Kattler, K, Walter, J, Schulz, MH, ***CpG content-dependent associations between transcription factors and histone modifications***. Plos ONE 16(4): e0249985, 2021. (IF: 3.7, 2023)  \[[Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249985)\]
 
-Fischer, J‡, Gadhikar‡, A, Burkholz, R, ***Lottery Tickets with Nonzero Biases***. preprint: arXiv:2110.11150, 2021.  \[[preprint](https://arxiv.org/abs/2110.11150)\]   
+Fischer, J‡, Gadhikar‡, A, Burkholz, R, ***Lottery Tickets with Nonzero Biases***. preprint: arXiv:2110.11150, 2021.  \[[preprint](https://arxiv.org/abs/2110.11150)\]\
 ‡equal contribution
 
 Heiter, E, Fischer, J, Vreeken, J, ***Factoring out prior knowledge from low-dimensional embeddings***. preprint: arXiv:2103.01828, 2021.  \[[preprint](https://arxiv.org/abs/2103.01828)\]
