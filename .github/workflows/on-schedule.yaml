@@ -14,8 +14,5 @@ permissions:
   pull-requests: write
 
 jobs:
-
   build-preview:
-    needs: update-citations
-    if: needs.update-citations.outputs.changed == 'true'
     uses: ./.github/workflows/build-preview.yaml
