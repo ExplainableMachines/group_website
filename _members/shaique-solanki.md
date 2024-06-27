@@ -3,7 +3,7 @@ name: Shaique Solanki
 image: images/Shaique_Solanki_photo.jpg
 description: Research Assistant
 role: hiwi
-links:\
+links:
   github: https://github.com/CruelMarco
 #   twitter: todo
 ---
