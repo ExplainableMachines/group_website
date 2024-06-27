@@ -1,7 +1,7 @@
 ---
 name: Ada Görgün
 image: images/AdaGorgun_photo.jpg
-description: Research Assistant
+description: PhD student
 role: phd
 # links:\
 #   github: todo
