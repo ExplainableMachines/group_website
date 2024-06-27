@@ -95,7 +95,7 @@ We are interested in *studying these limitations* both empirically and theoretic
 
 ### 2024
 
-Fischer, J, Ma, R, ***Sailing in high-dimensional spaces: Low-dimensional embeddings through angle preservation*** preprint: arXiv:2406.09876, 2024. \[[preprint]https://arxiv.org/abs/2406.09876\]
+Fischer, J, Ma, R, ***Sailing in high-dimensional spaces: Low-dimensional embeddings through angle preservation*** preprint: arXiv:2406.09876, 2024. \[[preprint](https://arxiv.org/abs/2406.09876)\]
 
 Mandros, P, Gallagher, I, Fanfani, V, Chen, C, Fischer, J, Ismail, A, Hsu, L, Saha, E, DeConti, DK, Quackenbush, J, ***node2vec2rank: Large Scale and Stable Graph Differential Analysis via Multi-Layer Node Embeddings and Ranking*** preprint: bioRxiv:10.1101/2024.06.16.599201v1, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.06.16.599201v1)\]
 
