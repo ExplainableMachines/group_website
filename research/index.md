@@ -95,15 +95,19 @@ We are interested in *studying these limitations* both empirically and theoretic
 
 ### 2024
 
-Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** accepted at AAAI Conference on Artificial Intelligence (AAAI), 2024. (23.8% acceptance rate, Core A*) \[[preprint](https://arxiv.org/abs/2312.04311)\]
+Fischer, J, Ma, R, ***Sailing in high-dimensional spaces: Low-dimensional embeddings through angle preservation*** preprint: arXiv:2406.09876, 2024. \[[preprint]https://arxiv.org/abs/2406.09876\]
 
-Hossain, I‡, Fischer, J‡, Burkholz, R\*, Quackenbush, J\*, ***Not all tickets are equal and we know it: Guiding pruning with domain-specific knowledge*** preprint: arXiv:2403.04805, 2024 \[[preprint](https://arxiv.org/abs/2403.04805)\]\
+Mandros, P, Gallagher, I, Fanfani, V, Chen, C, Fischer, J, Ismail, A, Hsu, L, Saha, E, DeConti, DK, Quackenbush, J, ***node2vec2rank: Large Scale and Stable Graph Differential Analysis via Multi-Layer Node Embeddings and Ranking*** preprint: bioRxiv:10.1101/2024.06.16.599201v1, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.06.16.599201v1)\]
+
+Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** AAAI Conference on Artificial Intelligence (AAAI), 2024. (23.8% acceptance rate, Core A*) \[[Article](https://ojs.aaai.org/index.php/AAAI/article/view/28756)\]
+
+Hossain, I‡, Fischer, J‡, Burkholz, R\*, Quackenbush, J\*, ***Not all tickets are equal and we know it: Guiding pruning with domain-specific knowledge*** preprint: arXiv:2403.04805, 2024. \[[preprint](https://arxiv.org/abs/2403.04805)\]\
 ‡\*equal contribution
 
-Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** accepted at conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[preprint](https://www.biorxiv.org/content/10.1101/2023.11.16.567119v1)\]\
+Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** Conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[Conference paper](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_23)\]\
 ‡equal contribution
 
-Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, ***Biologically informed NeuralODEs for genome-wide regulatory dynamics*** to appear in Genome Biology, BMC, 2024. (IF: 17.4, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2023.02.24.529835v2)\]
+Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, ***Biologically informed NeuralODEs for genome-wide regulatory dynamics*** Genome Biology, BMC, 2024. (IF: 17.4, 2022) \[[Article](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03264-0)\]
 
 ### 2023
 

@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 If you have questions about our work or want to discuss research, please reach out!
-We are currently looking for talented individuals to *join our team*. If you are passionate about research related to Explainable Machine Learning and find a suitable role below, please reach out with your CV, an up-to-date transcript of your studies, and a brief introduction of who you are and what your research interests are.
+[//]: # We are currently looking for talented individuals to *join our team*. If you are passionate about research related to Explainable Machine Learning and find a suitable role below, please reach out with your CV, an up-to-date transcript of your studies, and a brief introduction of who you are and what your research interests are.
 
 {%
   include button.html
@@ -30,7 +30,6 @@ We are currently looking for talented individuals to *join our team*. If you are
 {% capture col1 %}
 ### PhD openings
 
-We are currently looking for a PhD student to join our team.
 If you are interested in joining an international and diverse environment in
 one of the most renowned Computer Science institutes in the world
 and have a track record of academic achievments in a related field,

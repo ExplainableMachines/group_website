@@ -2,7 +2,7 @@
 name: Ada Görgün
 image: images/AdaGorgun_photo.jpg
 description: Research Assistant
-role: hiwi
+role: phd
 # links:\
 #   github: todo
 #   twitter: todo

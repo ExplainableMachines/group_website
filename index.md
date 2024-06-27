@@ -9,9 +9,29 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news3 %}
+ 6/27/24 [Ada](https://explainablemachines.github.io/group_website/members/ada-goerguen.html) joins the team as the very first PhD student. Welcome!
+{% endcapture %}
+
+{% capture news2 %}
+ 6/10/24 Our lab got an OpenAI grant for API credits as part of the [OpenAI Researcher Access program](https://openai.com/form/researcher-access-program/).
+{% endcapture %}
+
 {% capture news1 %}
  1/1/24 *The Explainable Machine Learning Group was founded.*
 {% endcapture %}
+
+{%
+  include alert.html
+  type="info"
+  content=news3
+%}
+
+{%
+  include alert.html
+  type="success"
+  content=news2
+%}
 
 {%
   include alert.html
