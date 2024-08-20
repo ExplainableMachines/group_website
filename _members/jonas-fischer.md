@@ -6,7 +6,6 @@ aliases:
   - J. Fischer
   - J Fischer
 links:
-  home-page: https://fischerjo.github.io
   email: jonas.fischer@mpi-inf.mpg.de
   twitter: JonasFischerML
 ---

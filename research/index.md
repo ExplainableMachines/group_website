@@ -104,17 +104,23 @@ Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patt
 Hossain, I‡, Fischer, J‡, Burkholz, R\*, Quackenbush, J\*, ***Not all tickets are equal and we know it: Guiding pruning with domain-specific knowledge*** preprint: arXiv:2403.04805, 2024. \[[preprint](https://arxiv.org/abs/2403.04805)\]\
 ‡\*equal contribution
 
+
+Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian inference of sample-specific coexpression networks*** Genome Research, CSHL, 2024. \[[PDF](https://genome.cshlp.org/content/early/2024/08/10/gr.279117.124.full.pdf)\]\
+‡equal contribution
+
 Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** Conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[Conference paper](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_23)\]\
 ‡equal contribution
 
+Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** Biology of Sex Differences 15(62), 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\] \[[Article](https://link.springer.com/article/10.1186/s13293-024-00634-y)\]
+
+
 Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, ***Biologically informed NeuralODEs for genome-wide regulatory dynamics*** Genome Biology, BMC, 2024. (IF: 17.4, 2022) \[[Article](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03264-0)\]
+
 
 ### 2023
 
 Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, ***Understanding and Mitigating Classification Errors Through Interpretable Token Patterns*** Empirical Methods in Natural Language Processing (EMNLP) BlackboxNLP workshop, 2023. \[[preprint](https://arxiv.org/abs/2311.10920)\]\
 ‡equal contribution
-
-Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** preprint: bioRxiv:10.1101/2023.09.22.559001v1, 2023. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\]
 
 Kamp, M, Fischer, J, Vreeken, J, ***Federated Learning from Small Datasets***. International Conference on Learning Representations (ICLR), OpenReview, 2023. (31.8% acceptance rate, Core A*) \[[PDF](https://openreview.net/forum?id=hDDV1lsRV8)\]
 
