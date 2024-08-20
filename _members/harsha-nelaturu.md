@@ -3,7 +3,7 @@ name: Harsha Nelaturu
 image: images/Harsha_Nelaturu.png
 description: PhD student
 role: phd
-links:\
+links:
    github: https://github.com/nelaturuharsha
    home-page: https://nelaturuharsha.github.io/
 ---
