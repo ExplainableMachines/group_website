@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
 If you have questions about our work or want to discuss research, please reach out!
-[//]: # We are currently looking for talented individuals to *join our team*. If you are passionate about research related to Explainable Machine Learning and find a suitable role below, please reach out with your CV, an up-to-date transcript of your studies, and a brief introduction of who you are and what your research interests are.
+If you have a strong background in Explainable Machine Learning and find a suitable role below, please reach out with your CV, an up-to-date transcript of your studies, and a brief introduction of who you are and what your research interests are.
 
 {%
   include button.html
