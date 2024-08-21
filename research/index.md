@@ -114,7 +114,7 @@ Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glas
 Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** Biology of Sex Differences 15(62), 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\] \[[Article](https://link.springer.com/article/10.1186/s13293-024-00634-y)\]
 
 
-Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, ***Biologically informed NeuralODEs for genome-wide regulatory dynamics*** Genome Biology, BMC, 2024. (IF: 17.4, 2022) \[[Article](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03264-0)\]
+Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, ***Biologically informed NeuralODEs for genome-wide regulatory dynamics*** Genome Biology 25(127), BMC, 2024. (IF: 17.4, 2022) \[[Article](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03264-0)\]
 
 
 ### 2023
