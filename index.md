@@ -9,6 +9,10 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news4 %}
+ 6/10/10 [DASH](https://github.com/QuackenbushLab/DASH) was accepted at NeurIPS 2024! Vancouver, here we come.
+{% endcapture %}
+
 {% capture news3 %}
  6/27/24 [Ada](https://explainablemachines.github.io/group_website/members/ada-goerguen.html) joins the team as the very first PhD student. Welcome!
 {% endcapture %}
@@ -20,6 +24,12 @@ This is the home of the Explainable Machine Learning research group of the Depar
 {% capture news1 %}
  1/1/24 *The Explainable Machine Learning Group was founded.*
 {% endcapture %}
+
+{%
+  include alert.html
+  type="info"
+  content=news4
+%}
 
 {%
   include alert.html

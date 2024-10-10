@@ -23,6 +23,9 @@ bachelor:
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+ril:
+  icon: fa-solid fa-user-graduate
+  description: Undergraduate Student
 
 hiwi:
   icon: fa-solid fa-code

@@ -7,6 +7,7 @@
   tags:
     - global explanations
     - pattern mining
+    - interpretability
     - rules
 
 - title: Plant'n'Seek
@@ -18,7 +19,7 @@
   tags:
     - benchmark
     - LTH
-    - Pruning
+    - pruning
 
 - title: Premise
   subtitle: Label-descriptive patterns
@@ -63,3 +64,23 @@
     - inherently interpretable
     - biology
 
+- title: DASH
+  subtitle: Prior-informed pruning of neural networks
+  image: images/dash_concept.png
+  link: https://github.com/QuackenbushLab/DASH
+  description: We suggest a pruning approach that takes into account prior domain-knowledge to align the pruned network structure with that knowledge, thus improving pruning efficiency and quality of encoded information.
+  tags:
+    - neural ODE
+    - pruning
+    - biology
+    - interpretability
+
+- title: Mercat
+  subtitle: Faithful low-dimensional embeddings through angle preservation
+  image: images/mercat_idea.png
+  link: https://github.com/ExplainableMachines
+  description: To overcome consistent problems in existing low-dimensional embedding methodology, we propose to reframe the problem reconstructing angles between any point triplet, instead of reconstructing distances.
+  tags:
+    - low-dimensional embeddings
+    - dimensionality reduction
+    - visualization

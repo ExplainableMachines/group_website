@@ -10,7 +10,7 @@ nav:
 Research is most fruitful (and most fun) at the intersection of different fields of research. At the core of our research is the development of methods that
 give *global, human-interpretable explanations* for complex machine learning models, as well as the development of *inherently interpretable* machine learning models.
 We study these topics touching the fields of *classical XAI, Data Mining, Neural Network Pruning, and Low-dimensional Embeddings*,
-merging ideas to for example obtain a better understanding of which information is encoded in a neural network and how information flows between layers, or to inform neuro-symbolic
+merging ideas to for example obtain a better understanding of how information is encoded and propagated inside a neural network, nowadays coined *mechanistic interpretability*, or to inform neuro-symbolic
 architecture designs for relevant problems in biology.
 
 Putting our ideas into practice, we study Explainability of models in challenging biomedical tasks around *cancer*, where an understanding of the decision-making process of a model is essential
@@ -95,23 +95,27 @@ We are interested in *studying these limitations* both empirically and theoretic
 
 ### 2024
 
+Hossain, I‡, Fischer, J‡, Burkholz, R\*, Quackenbush, J\*, ***Pruning neural network models for gene regulatory dynamics using data and domain knowledge*** accepted at NeurIPS 2024. (25.8% acceptance rate, Core A*) \[[preprint](https://arxiv.org/abs/2403.04805)\]\
+‡\*equal contribution
+
 Fischer, J, Ma, R, ***Sailing in high-dimensional spaces: Low-dimensional embeddings through angle preservation*** preprint: arXiv:2406.09876, 2024. \[[preprint](https://arxiv.org/abs/2406.09876)\]
+
+Fischer, J, Shutta, KH, Chen, C, Fanfani, V, Saha, E, Mandros, P, Guebila, MB, Xiu, J, Nieva, J, Liu, S, Uprety, D, Spetzler, D, Lopes-Ramos, CM, DeMeo, D, Quackenbush, J, ***Selective loss of Y chromosomes in lung adenocarcinoma modulates the tumor immune environment through cancer/testis antigens*** bioRxiv:10.1101/2024.09.19.613876v1, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.09.19.613876v1)\]
+
+Lin, Y, Breuer, K, Weichenhan, D, Lafrenz, P, Wilk, A, Chepeleva, M, Mücke, O, Schönung, M, Petermann, F, Kensche, P, Weiser, L, Thommen, F, Giacomelli, G, Nordstroem, K, Gonzales-Avalos, E, Merkel, A, Kretzmer, H, Fischer, J, Krämer, S, Iskar, M, Wolf, S, Buchhalter, I, Esteller, M, Lawerenz, C, Twardziok, S, Zapatka, M, Hovestadt, V, Schlesner, M, Schulz, M, Hoffmann, S, Gerhauser, C, Walter, J, Hartmann, M, Lipka, DB, Assenov, Y, Bock, C, Plass, C, Toth, R, Lutsik, P ***Pipeline Olympics: continuable benchmarking of computational workflows for DNA methylation sequencing data against an experimental gold-standard*** bioRxiv:10.1101/2024.09.16.609142, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.09.16.609142v1)\]
 
 Mandros, P, Gallagher, I, Fanfani, V, Chen, C, Fischer, J, Ismail, A, Hsu, L, Saha, E, DeConti, DK, Quackenbush, J, ***node2vec2rank: Large Scale and Stable Graph Differential Analysis via Multi-Layer Node Embeddings and Ranking*** preprint: bioRxiv:10.1101/2024.06.16.599201v1, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.06.16.599201v1)\]
 
 Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** AAAI Conference on Artificial Intelligence (AAAI), 2024. (23.8% acceptance rate, Core A*) \[[Article](https://ojs.aaai.org/index.php/AAAI/article/view/28756)\]
 
-Hossain, I‡, Fischer, J‡, Burkholz, R\*, Quackenbush, J\*, ***Not all tickets are equal and we know it: Guiding pruning with domain-specific knowledge*** preprint: arXiv:2403.04805, 2024. \[[preprint](https://arxiv.org/abs/2403.04805)\]\
-‡\*equal contribution
 
-
-Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian inference of sample-specific coexpression networks*** Genome Research, CSHL, 2024. \[[PDF](https://genome.cshlp.org/content/early/2024/08/10/gr.279117.124.full.pdf)\]\
+Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian inference of sample-specific coexpression networks*** Genome Research, CSHL, 2024. (IF: 6.70, 2022) \[[PDF](https://genome.cshlp.org/content/early/2024/08/10/gr.279117.124.full.pdf)\]\
 ‡equal contribution
 
 Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** Conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[Conference paper](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_23)\]\
 ‡equal contribution
 
-Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** Biology of Sex Differences 15(62), 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\] \[[Article](https://link.springer.com/article/10.1186/s13293-024-00634-y)\]
+Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** Biology of Sex Differences 15(62), 2024. (IF: 8.24, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\] \[[Article](https://link.springer.com/article/10.1186/s13293-024-00634-y)\]
 
 
 Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, ***Biologically informed NeuralODEs for genome-wide regulatory dynamics*** Genome Biology 25(127), BMC, 2024. (IF: 17.4, 2022) \[[Article](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03264-0)\]
