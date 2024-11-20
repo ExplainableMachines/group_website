@@ -31,6 +31,10 @@ hiwi:
   icon: fa-solid fa-code
   description: Research Assistant
 
+alumni:
+  icon: fa-solid fa-globe
+  description: Past members of the EML lab
+
 # general
 
 link:

@@ -18,3 +18,8 @@ nav:
 
 
 
+
+# {% include icon.html icon="fa-solid fa-users" %}Alumni
+
+
+{% include list.html data="members" component="portrait" filters="role: alumni" %}

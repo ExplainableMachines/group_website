@@ -2,10 +2,11 @@
 name: Harsha Nelaturu
 image: images/Harsha_Nelaturu.png
 description: Research Assistant
-role: hiwi
+role: alumni
 links:
    github: https://github.com/nelaturuharsha
    home-page: https://nelaturuharsha.github.io/
 ---
 
-Harsha is a research assistant at EML working on gaining insights into the human brain through understanding artifical neural representations.
+During his time as a research assistant at EML, Harsha worked on gaining insights into the human brain through understanding artifical neural representations.
+He is now a Research Intern at Amazon AWS in Tübingen.
