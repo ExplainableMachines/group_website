@@ -1,7 +1,7 @@
 ---
 name: Fawaz Sammani
 image: images/Fawaz_Sammani.png
-description: Research Assistant
+description: Visiting Researcher
 role: visitingres
 links:
    github: https://github.com/fawazsammani
