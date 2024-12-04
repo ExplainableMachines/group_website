@@ -4,7 +4,7 @@ image: images/Harsha_Nelaturu.png
 description: Research Assistant
 role: alumni
 links:
-   github: https://github.com/nelaturuharsha
+   github: nelaturuharsha
    home-page: https://nelaturuharsha.github.io/
 ---
 
