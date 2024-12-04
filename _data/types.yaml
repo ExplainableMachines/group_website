@@ -16,7 +16,7 @@ phd:
 
 master:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Master Student
 bachelor:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
@@ -25,7 +25,10 @@ undergrad:
   description: Undergraduate Student
 ril:
   icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+  description: Research Intern
+visitingres:
+  icon: fa-solid fa-person-walking-luggage
+  description: Visiting Researcher
 
 hiwi:
   icon: fa-solid fa-code
