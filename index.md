@@ -9,8 +9,16 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news6 %}
+ 1/10/25 PHOENIX was highlighted as one of the "[Advances in Cancer Biology Research](https://www.cancer.gov/about-nci/organization/dcb/progress/cancer-biology-advances)" in 2024 by the NCI (the National Cancer Institute of the US)!
+{% endcapture %}
+
+{% capture news5 %}
+ 11/28/24 Jonas gave an invited talk on *Mechanistic Interpretability of Neural Networks* at an XAI Symposium in Mainz (organized within the hessian.AI – Connectom network funding program).
+{% endcapture %}
+
 {% capture news4 %}
- 6/10/10 [DASH](https://github.com/QuackenbushLab/DASH) was accepted at NeurIPS 2024! Vancouver, here we come.
+ 10/6/24 [DASH](https://github.com/QuackenbushLab/DASH) was accepted at NeurIPS 2024! Vancouver, here we come.
 {% endcapture %}
 
 {% capture news3 %}
@@ -24,6 +32,18 @@ This is the home of the Explainable Machine Learning research group of the Depar
 {% capture news1 %}
  1/1/24 *The Explainable Machine Learning Group was founded.*
 {% endcapture %}
+
+{%
+  include alert.html
+  type="success"
+  content=news6
+%}
+
+{%
+  include alert.html
+  type="info"
+  content=news5
+%}
 
 {%
   include alert.html

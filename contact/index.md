@@ -45,12 +45,4 @@ exciting research topics for a thesis related to Explainable ML. If you want to
 do research at the cutting edge, reach out!
 {% endcapture %}
 
-{% capture col3 %}
-### Bachelor thesis
-
-For interested Bachelor students of Saarland University we have a limited number of introductory topics
-to get in touch with current research around Explainable Machine Learning.
-If you are interested, reach out!
-{% endcapture %}
-
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
