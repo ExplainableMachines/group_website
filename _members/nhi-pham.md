@@ -1,7 +1,7 @@
 ---
 name: Nhi Pham
 image: images/nhi_pham.JPG
-description: Research Intern
+description: PhD student
 role: phd
 links:
    github: https://github.com/phamleyennhi

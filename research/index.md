@@ -99,15 +99,15 @@ We focus on the question of how we can prune networks to *extreme sparsity*, and
 Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\]\
 \*equal contribution
 
-Walter, NP, Vreeken, J, Fischer, J, ***Now you see me! A framework for obtaining class-relevant saliency maps.*** preprint: arXiv:2503.07346, 2025. \[[preprint](https://arxiv.org/abs/2503.07346)\]
+Walter, NP, Vreeken, J, Fischer, J, ***Now you see me! A framework for obtaining class-relevant saliency maps*** preprint: arXiv:2503.07346, 2025. \[[preprint](https://arxiv.org/abs/2503.07346)\]
 
-Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models.*** preprint: arXiv:2503.10981, 2025. \[[preprint](https://arxiv.org/abs/2503.10981)\]
+Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models*** preprint: arXiv:2503.10981, 2025. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 
-Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks.*** preprint: bioRxiv:2025.02.03.636354 \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
+Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks*** preprint: bioRxiv:2025.02.03.636354 \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
 
-Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow.*** under submission.
+Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** under submission.
 
-Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Channels in Convolutional Neural Networks.*** under submission.
+Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Channels in Convolutional Neural Networks*** under submission.
 
 ### 2024
 
