@@ -8,24 +8,26 @@ nav:
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
 Research is most fruitful (and most fun) at the intersection of different fields of research. At the core of our research is the development of methods that
-give *global, human-interpretable explanations* for complex machine learning models, as well as the development of *inherently interpretable* machine learning models.
-We study these topics touching the fields of *classical XAI, Data Mining, Neural Network Pruning, and Low-dimensional Embeddings*,
-merging ideas to for example obtain a better understanding of how information is encoded and propagated inside a neural network, nowadays coined *mechanistic interpretability*, or to inform neuro-symbolic
-architecture designs for relevant problems in biology.
+provide *explanations* for complex machine learning models, as well as the development of *inherently interpretable* machine learning models.
+We are particularly interested in getting a better understanding of how information is encoded and propagated *inside* a neural network, nowadays coined *mechanistic interpretability*, or to inform *neuro-symbolic*
+architecture designs.
 
-Putting our ideas into practice, we study Explainability of models in challenging biomedical tasks around *cancer*, where an understanding of the decision-making process of a model is essential
-for a model to be deployed in practice. We further consider Explanability of *foundation models*, which is key to understand their success, but also to understand whether they align with human reasoning and do
-not reflect harmful biases. Such an understanding is not only interesting, but soon required by law under the *EU AI act*.
+Our research spans from foundations to applications in practice. One focus lies on *extracting new scientific insights* from models that often surpass human experts through methods for Interpretability of Machine Learning models.
+In molecular biology we for example use explanations of models to get new knowledge about the complex genomic mechanisms driving cancer or aging. 
+In Neuroscience, we are interested in studying the brain *through* understanding a artificial neural model encoding brain activations, for example to locate and understand the processing of visual stimuli in the brain.
+
+We further study the Explainability of models in challenging biomedical tasks, such as biomedical imaging in cancer, where an understanding of the decision-making process of a model is essential
+for a model to be deployed and trusted in practice.
 
 {% include section.html %}
 
 {% capture text %}
 
 *Post-hoc* explainability methods aim to provide explanations of what an already trained model, usually a neural network, learned and how it uses this information to arrive at a prediction.
-While not making the network fully transparent, by providing a glimpse into the black box models these methods have the great advantage that they do not compromise performance, which is a desiderata for a neural network. 
-The majority of post-hoc explanation approaches, however, focus on *instance-specific explanations*, giving insights into why a decision was made for a particular instance (e.g., saliency maps, GradCam, Integrated Gradients,
+While not making a black box model fully transparent, by providing a glimpse into the black box these methods have the great advantage that they do not compromise performance, which is a desiderata for a neural network in practice. 
+A majority of post-hoc explanation approaches, however, focus on *instance-specific explanations*, giving insights into why a decision was made for a particular instance (e.g., saliency maps, GradCam, Integrated Gradients,
 LIME, ...).
-We are interested in *global explanations* that describe the general information encoded for example by a group of neurons and discovering such feature-encoding neuron groups in the first place.
+We are interested in *global explanations* that describe the general information encoded for example by a group of neurons and discovering such feature-encoding neuron groups in the first place and provide these along with theoretical guarantees.
 
 {% endcapture %}
 
@@ -35,6 +37,22 @@ We are interested in *global explanations* that describe the general information
   title="Global Explanations"
   text=text
 %}
+
+{% capture text %}
+*Inherently interpretable models* are key to ensure explanations that are *faithful* to the actual model decisions. Such Explanations that reveal the true decision-making of the model are key in high-stakes settings in practice,
+for example in biomedical imaging -- e.g., predicting cancer risk or events based on radiological images, tissue stains, or skin screens.
+We are interested in developing new methodology that yields both highly performant but still inherently interpretable models, ensure that explanations are correctly grounded in the input image, as well as models that are inherently interpretabl while emitting other properties such as OOD robustness.
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/cave.png"
+  title="Inherently Interpretable decision-making"
+  text=text
+%}
+
+{% include section.html %}
 
 
 {% include section.html %}
@@ -71,27 +89,25 @@ We focus on the question of how we can prune networks to *extreme sparsity*, and
 
 {% include section.html %}
 
-{% capture text %}
-To discover and present *regularities and dependencies in complex, high-dimensional data*, human experts often resort to a visual exploration.
-As a visual inspection or presentation is bound to two or three-dimensional spaces, the field of *low-dimensional embeddings* focuses on developing methods
-to map high-dimensional data to such low-dimensional, visualizable spaces while *keeping the main structure of the data intact*.
-While these approaches enjoy tremendous interest in the sciences, such as biology, the limitations on what structures they preserves and which ones are lost, or which biases are introduced are under constant debate.
-We are interested in *studying these limitations* both empirically and theoretically, *develop novel approaches* to this problem, and use those to visually *explore the neural activation landscapes* of neural networks
 
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/mnist_dtsne.png"
-  title="Low-dimensional Embeddings"
-  text=text
-%}
-
-{% include section.html %}
 
 
 ## List of Publications
+
+### 2025
+
+Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\]\
+\*equal contribution
+
+Walter, NP, Vreeken, J, Fischer, J, ***Now you see me! A framework for obtaining class-relevant saliency maps.*** preprint: arXiv:2503.07346, 2025. \[[preprint](https://arxiv.org/abs/2503.07346)\]
+
+Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models.*** preprint: arXiv:2503.10981, 2025. \[[preprint](https://arxiv.org/abs/2503.10981)\]
+
+Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks.*** preprint: bioRxiv:2025.02.03.636354 \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
+
+Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow.*** under submission.
+
+Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Channels in Convolutional Neural Networks.*** under submission.
 
 ### 2024
 
