@@ -101,13 +101,13 @@ Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: R
 
 Walter, NP, Vreeken, J, Fischer, J, ***Now you see me! A framework for obtaining class-relevant saliency maps*** preprint: arXiv:2503.07346, 2025. \[[preprint](https://arxiv.org/abs/2503.07346)\]
 
+Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** preprint: arXiv:2503.22399, 2025. \[[preprint](https://arxiv.org/abs/2503.22399)\]
+
 Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models*** preprint: arXiv:2503.10981, 2025. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 
 Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks*** preprint: bioRxiv:2025.02.03.636354 \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
 
-Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** under submission.
-
-Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Channels in Convolutional Neural Networks*** under submission.
+Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Channels in Convolutional Neural Networks*** accepted at CVPR workshop on Mechanistic Interpretability for Vision (MIV) 2025. 
 
 ### 2024
 
