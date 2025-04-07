@@ -96,12 +96,12 @@ We focus on the question of how we can prune networks to *extreme sparsity*, and
 
 ### 2025
 
-Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\]\
+Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\]\ \[[project page](https://phamleyennhi.github.io/cave/)\]
 \*equal contribution
 
 Walter, NP, Vreeken, J, Fischer, J, ***Now you see me! A framework for obtaining class-relevant saliency maps*** preprint: arXiv:2503.07346, 2025. \[[preprint](https://arxiv.org/abs/2503.07346)\] \[[project page](https://nilspwalter.github.io/var-page/)\]
 
-Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** preprint: arXiv:2503.22399, 2025. \[[preprint](https://arxiv.org/abs/2503.22399)\]
+Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** preprint: arXiv:2503.22399, 2025. \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
 
 Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models*** preprint: arXiv:2503.10981, 2025. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 
