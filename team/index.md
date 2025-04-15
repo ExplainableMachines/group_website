@@ -19,9 +19,12 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: hiwi" %}
 
 
-
+{% include section.html %}
 
 # {% include icon.html icon="fa-solid fa-users" %}Alumni
+
+
+{% include section.html %}
 
 
 {% include list.html data="members" component="portrait" filters="role: alumni" %}
