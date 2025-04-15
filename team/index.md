@@ -15,6 +15,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: visitingres" %}
 {% include list.html data="members" component="portrait" filters="role: ril" %}
 {% include list.html data="members" component="portrait" filters="role: master" %}
+{% include list.html data="members" component="portrait" filters="role: bachelor" %}
 {% include list.html data="members" component="portrait" filters="role: hiwi" %}
 
 
