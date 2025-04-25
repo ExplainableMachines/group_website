@@ -1,5 +1,5 @@
 ---
-name: Sakhawath Sumit Hosain
+name: Sakhawath Hosain Sumit
 image: images/Sakhawath_Hosain.jpg
 description: Master Student
 role: master
