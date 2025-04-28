@@ -1,5 +1,5 @@
 ---
-name: Sakhawath Hosain Sumit
+name: Sakhawat Hosain Sumit
 image: images/Sakhawath_Hosain.jpg
 description: Master Student
 role: master
@@ -8,4 +8,4 @@ role: master
 #   twitter: todo
 ---
 
-Sakhawath is a Master student working on his thesis on developing a group- and representation-theoretic framework for learning meaningful and interpretable concepts in neural models.
+Sakhawat is a Master student working on his thesis on developing a group- and representation-theoretic framework for learning meaningful and interpretable concepts in neural models.
