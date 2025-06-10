@@ -96,6 +96,8 @@ We focus on the question of how we can prune networks to *extreme sparsity*, and
 
 ### 2025
 
+Hedderich, MA, Wang, A, Zhao, R, Eichin, F, Fischer, J, Plank, B, ***What's the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns*** ACL, 2025. \[[preprint](https://arxiv.org/abs/2504.15815)\]
+
 Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\]\ \[[project page](https://phamleyennhi.github.io/cave/)\]
 \*equal contribution
 

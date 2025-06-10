@@ -10,16 +10,6 @@
     - interpretability
     - rules
 
-- title: Plant'n'Seek
-  subtitle: Can you find the winning ticket?
-  group: featured
-  image: images/pruning.png
-  link: https://github.com/RelationalML/PlantNSeek
-  description: We study whether current limitations in network pruning are algorithmic or foundational by crafting hidden lottery tickets in large neural networks for bechnmarking.
-  tags:
-    - benchmark
-    - LTH
-    - pruning
 
 - title: Premise
   subtitle: Label-descriptive patterns
@@ -31,6 +21,31 @@
     - global explanations
     - pattern mining
     - differential patterns
+
+- title: CAVE
+  subtitle: Robust and interpretable image classification
+  group: featured
+  image: images/cave_teaser.png
+  link: https://phamleyennhi.github.io/cave/
+  description: We propose an image classifier that leverages available 3D information to learn robust neural object representations that are inherently interpretable.
+  tags:
+    - global explanations
+    - computer vision
+    - 3D
+    - inherent interpretability
+    - robustnes
+
+- title: VITAL
+  subtitle: Label-descriptive patterns
+  group: featured
+  image: images/vital.png
+  link: https://adagorgun.github.io/VITAL-Project/
+  description: We rethink feature visualization for understanding vision models beyond maximizing activations and propose to match feature distributions instead, generating more realistic and interpretable explanations.
+  tags:
+    - global explanations
+    - feature visualization
+    - mechanistic interpretability
+    - computer vision
 
 
 - title: Binaps
@@ -53,6 +68,15 @@
     - differential patterns
     - neuro-symbolic
 
+- title: Plant'n'Seek
+  subtitle: Can you find the winning ticket?
+  image: images/pruning.png
+  link: https://github.com/RelationalML/PlantNSeek
+  description: We study whether current limitations in network pruning are algorithmic or foundational by crafting hidden lottery tickets in large neural networks for bechnmarking.
+  tags:
+    - benchmark
+    - LTH
+    - pruning
 
 - title: Phoenix
   subtitle: Modeling gene regulatory dynamics
