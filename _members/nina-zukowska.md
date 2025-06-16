@@ -3,8 +3,8 @@ name: Nina Zukowska
 image: images/nina_zukowska.jpeg
 description: Visiting Researcher
 role: visitingres
-#links:
-#   linkedin: https://www.linkedin.com/in/nina-zukowska/
+links:
+   linkedin: nina-zukowska
 ---
 
 Nina is visiting the EML group over the summer 2025 as part of the MPI summer internship program.
