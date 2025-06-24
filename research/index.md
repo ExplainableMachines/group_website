@@ -38,6 +38,8 @@ We are interested in *global explanations* that describe the general information
   text=text
 %}
 
+{% include section.html %}
+
 {% capture text %}
 *Inherently interpretable models* are key to ensure explanations that are *faithful* to the actual model decisions. Such Explanations that reveal the true decision-making of the model are key in high-stakes settings in practice,
 for example in biomedical imaging -- e.g., predicting cancer risk or events based on radiological images, tissue stains, or skin screens.
@@ -51,8 +53,6 @@ We are interested in developing new methodology that yields both highly performa
   title="Inherently Interpretable decision-making"
   text=text
 %}
-
-{% include section.html %}
 
 
 {% include section.html %}
@@ -98,7 +98,7 @@ We focus on the question of how we can prune networks to *extreme sparsity*, and
 
 Hedderich, MA, Wang, A, Zhao, R, Eichin, F, Fischer, J, Plank, B, ***What's the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns*** ACL, 2025. \[[preprint](https://arxiv.org/abs/2504.15815)\]
 
-Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\]\ \[[project page](https://phamleyennhi.github.io/cave/)\]
+Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]
 \*equal contribution
 
 Walter, NP, Vreeken, J, Fischer, J, ***Now you see me! A framework for obtaining class-relevant saliency maps*** preprint: arXiv:2503.07346, 2025. \[[preprint](https://arxiv.org/abs/2503.07346)\] \[[project page](https://nilspwalter.github.io/var-page/)\]
