@@ -96,14 +96,16 @@ We focus on the question of how we can prune networks to *extreme sparsity*, and
 
 ### 2025
 
-Hedderich, MA, Wang, A, Zhao, R, Eichin, F, Fischer, J, Plank, B, ***What's the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns*** ACL, 2025. \[[preprint](https://arxiv.org/abs/2504.15815)\]
+Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
+
+Zhu, J, Wu, Y, Zhu, W, Cao, J, Zheng, Y, Chen, Y, Yang, X, Schiele, B, Fischer, J, Hu, X, ***LayerCake: Token-Aware Contrastive Decoding within Large Language Model Layers*** preprint: arXiv:507.04404, 2025. \[[preprint](https://arxiv.org/abs/507.04404)\]
+
+Hedderich, MA, Wang, A, Zhao, R, Eichin, F, Fischer, J, Plank, B, ***What's the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns*** accepted at ACL (main conference) 2025. \[[preprint](https://arxiv.org/abs/2504.15815)\]
 
 Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]
 \*equal contribution
 
 Walter, NP, Vreeken, J, Fischer, J, ***Now you see me! A framework for obtaining class-relevant saliency maps*** preprint: arXiv:2503.07346, 2025. \[[preprint](https://arxiv.org/abs/2503.07346)\] \[[project page](https://nilspwalter.github.io/var-page/)\]
-
-Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** preprint: arXiv:2503.22399, 2025. \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
 
 Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models*** preprint: arXiv:2503.10981, 2025. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 

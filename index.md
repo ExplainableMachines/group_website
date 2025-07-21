@@ -9,6 +9,10 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news7 %}
+ 7/25 Happy to share the acceptance of *VITAL* at ICCV, which enables more realistic feature visualizations to understand neural network decision making, led by our PhD student Ada, and *Spotlight* at ACL, which supports users in identifying the effects of prompt and model changes led by the group of Michael Hedderich at LMU.
+{% endcapture %}
+
 {% capture news6 %}
  1/10/25 PHOENIX was highlighted as one of the "[Advances in Cancer Biology Research](https://www.cancer.gov/about-nci/organization/dcb/progress/cancer-biology-advances)" in 2024 by the NCI (the National Cancer Institute of the US)!
 {% endcapture %}
