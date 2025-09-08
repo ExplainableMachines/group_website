@@ -111,8 +111,9 @@ Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Ch
 
 Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models*** preprint: arXiv:2503.10981, 2025. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 
-Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks*** preprint: bioRxiv:2025.02.03.636354 \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
+Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks*** *accepted at Biology* of Sex Differences, 2025. (IF: 8.24, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
 
+Lin, Y, Breuer, K, Weichenhan, D, Lafrenz, P, Wilk, A, Chepeleva, M, Mücke, O, Schönung, M, Petermann, F, Kensche, P, Weiser, L, Thommen, F, Giacomelli, G, Nordstroem, K, Gonzales-Avalos, E, Merkel, A, Kretzmer, H, Fischer, J, Krämer, S, Iskar, M, Wolf, S, Buchhalter, I, Esteller, M, Lawerenz, C, Twardziok, S, Zapatka, M, Hovestadt, V, Schlesner, M, Schulz, M, Hoffmann, S, Gerhauser, C, Walter, J, Hartmann, M, Lipka, DB, Assenov, Y, Bock, C, Plass, C, Toth, R, Lutsik, P ***Pipeline Olympics: continuable benchmarking of computational workflows for DNA methylation sequencing data against an experimental gold-standard*** *accepted at* Nucleic Acid Research, OUP, 2025. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.09.16.609142v1)\]
 
 ### 2024
 
@@ -125,7 +126,6 @@ Fanfani, V, Shutta, KH, Mandros, P, Fischer, J, Saha, E, Micheletti, S, Chen, C,
 
 Fischer, J, Shutta, KH, Chen, C, Fanfani, V, Saha, E, Mandros, P, Guebila, MB, Xiu, J, Nieva, J, Liu, S, Uprety, D, Spetzler, D, Lopes-Ramos, CM, DeMeo, D, Quackenbush, J, ***Selective loss of Y chromosomes in lung adenocarcinoma modulates the tumor immune environment through cancer/testis antigens*** bioRxiv:10.1101/2024.09.19.613876v1, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.09.19.613876v1)\]
 
-Lin, Y, Breuer, K, Weichenhan, D, Lafrenz, P, Wilk, A, Chepeleva, M, Mücke, O, Schönung, M, Petermann, F, Kensche, P, Weiser, L, Thommen, F, Giacomelli, G, Nordstroem, K, Gonzales-Avalos, E, Merkel, A, Kretzmer, H, Fischer, J, Krämer, S, Iskar, M, Wolf, S, Buchhalter, I, Esteller, M, Lawerenz, C, Twardziok, S, Zapatka, M, Hovestadt, V, Schlesner, M, Schulz, M, Hoffmann, S, Gerhauser, C, Walter, J, Hartmann, M, Lipka, DB, Assenov, Y, Bock, C, Plass, C, Toth, R, Lutsik, P ***Pipeline Olympics: continuable benchmarking of computational workflows for DNA methylation sequencing data against an experimental gold-standard*** bioRxiv:10.1101/2024.09.16.609142, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.09.16.609142v1)\]
 
 Mandros, P, Gallagher, I, Fanfani, V, Chen, C, Fischer, J, Ismail, A, Hsu, L, Saha, E, DeConti, DK, Quackenbush, J, ***node2vec2rank: Large Scale and Stable Graph Differential Analysis via Multi-Layer Node Embeddings and Ranking*** preprint: bioRxiv:10.1101/2024.06.16.599201v1, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.06.16.599201v1)\]
 
