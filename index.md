@@ -9,6 +9,14 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news9 %}
+ 10/25 I am happy to announce that this semester we are offering a seminar on [*Explainable Machine Learning*](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1/ws-2025-26-explainable-machine-learning-exml-seminar) and [*Machine Learning Approaches for Building Virtual Cell Models*](https://cms.sic.saarland/bi_mla_25/) in collaboration with other groups at Saarland University.
+{% endcapture %}
+
+{% capture news8 %}
+ 10/25 Excited to share the acceptance of *FaCT* at NeurIPS, which equips neural networks with concept traces explaining the underlying decision-making faithful to the true network reasoning, led by associated PhD student Amin.
+{% endcapture %}
+
 {% capture news7 %}
  7/25 Happy to share the acceptance of *VITAL* at ICCV, which enables more realistic feature visualizations to understand neural network decision making, led by our PhD student Ada, and *Spotlight* at ACL, which supports users in identifying the effects of prompt and model changes led by the group of Michael Hedderich at LMU.
 {% endcapture %}

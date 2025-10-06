@@ -96,6 +96,8 @@ We focus on the question of how we can prune networks to *extreme sparsity*, and
 
 ### 2025
 
+Parchami-Araghi, A, Rao, S, Fischer, J, Schiele, B, ***FaCT: Faithful Concept Traces for Explaining Neural Network Decisions*** accepted at NeurIPS 2025. (24.5% acceptence rate) *preprint coming soon*
+
 Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
 
 Zhu, J, Wu, Y, Zhu, W, Cao, J, Zheng, Y, Chen, Y, Yang, X, Schiele, B, Fischer, J, Hu, X, ***LayerCake: Token-Aware Contrastive Decoding within Large Language Model Layers*** preprint: arXiv:507.04404, 2025. \[[preprint](https://arxiv.org/abs/507.04404)\]
