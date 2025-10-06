@@ -48,6 +48,18 @@ This is the home of the Explainable Machine Learning research group of the Depar
 {%
   include alert.html
   type="info"
+  content=news9
+%}
+
+{%
+  include alert.html
+  type="info"
+  content=news8
+%}
+
+{%
+  include alert.html
+  type="info"
   content=news7
 %}
 
