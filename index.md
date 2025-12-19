@@ -9,6 +9,10 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news10 %}
+ 12/25 Jonas achieved the **Top Reviewer** Hattrick, being awarded this recognition at the three core ML conferences NeurIPS, ICML, and ICLR in the 2025 cycle.
+{% endcapture %}
+
 {% capture news9 %}
  10/25 I am happy to announce that this semester we are offering a seminar on [*Explainable Machine Learning*](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/teaching/courses-1/ws-2025-26-explainable-machine-learning-exml-seminar) and [*Machine Learning Approaches for Building Virtual Cell Models*](https://cms.sic.saarland/bi_mla_25/) in collaboration with other groups at Saarland University.
 {% endcapture %}
@@ -44,6 +48,12 @@ This is the home of the Explainable Machine Learning research group of the Depar
 {% capture news1 %}
  1/1/24 *The Explainable Machine Learning Group was founded.*
 {% endcapture %}
+
+{%
+  include alert.html
+  type="info"
+  content=news10
+%}
 
 {%
   include alert.html

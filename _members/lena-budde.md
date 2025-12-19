@@ -2,7 +2,7 @@
 name: Lena Marie Budde
 image: images/Foto_Budde.jpg
 description: Research Assistant
-role: hiwi
+role: alumni
 # links:\
 #   github: todo
 #   twitter: todo
