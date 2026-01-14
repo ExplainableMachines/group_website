@@ -44,17 +44,17 @@
 <link rel="icon" href="/images/icon.png">
 
 <meta name="title" content="Research">
-<meta name="description" content="EML. This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview as well as all the details on our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.">
+<meta name="description" content="EML. This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview of our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.">
 
 <meta property="og:title" content="Research">
 <meta property="og:site_title" content="Explainable Machine Learning Group">
-<meta property="og:description" content="EML. This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview as well as all the details on our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.">
+<meta property="og:description" content="EML. This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview of our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.">
 <meta property="og:url" content="">
 <meta property="og:image" content="">
 <meta property="og:locale" content="en_US">
 
 <meta property="twitter:title" content="Research">
-<meta property="twitter:description" content="EML. This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview as well as all the details on our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.">
+<meta property="twitter:description" content="EML. This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview of our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.">
 <meta property="twitter:url" content="">
 <meta property="twitter:card" content="summary_large_image">
 <meta property="twitter:image" content="">
@@ -70,7 +70,7 @@
       "@type": "WebSite",
     
     "name": "Research",
-    "description": "EML. This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview as well as all the details on our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.",
+    "description": "EML. This is the home of the Explainable Machine Learning research group of the Department for Computer Vision and Machine Learning of the Max Planck Institute for Informatics. Here, we provide an overview of our ongoing and past work around Explainability in Machine Learning, including generation of explanations for black box models, inherently interpretable neural network approaches, and their applications.",
     "headline": "Research",
     "publisher": {
       "@type": "Organization",
@@ -390,8 +390,14 @@
     
     
       
-        <a href="/research/" data-tooltip="Published works">
+        <a href="/research/" data-tooltip="High-level research overview">
           Research
+        </a>
+      
+    
+      
+        <a href="/publications/" data-tooltip="Published works">
+          Publications
         </a>
       
     
@@ -442,15 +448,40 @@
 
 <p>Research is most fruitful (and most fun) at the intersection of different fields of research. At the core of our research is the development of methods that
 provide <em>explanations</em> for complex machine learning models, as well as the development of <em>inherently interpretable</em> machine learning models.
-We are particularly interested in getting a better understanding of how information is encoded and propagated <em>inside</em> a neural network, nowadays coined <em>mechanistic interpretability</em>, or to inform <em>neuro-symbolic</em>
-architecture designs.</p>
+We are particularly interested in getting a better understanding of how information is encoded and propagated <em>inside</em> a neural network, nowadays coined <em>mechanistic interpretability</em>, or to inform <em>inherently interpretable</em> and <em>neuro-symbolic</em>
+architecture designs.
+Our research spans from foundations to applications in practice. One focus lies on <em>extracting new scientific insights</em> from models that often surpass human experts through methods for Interpretability of Machine Learning models.
+In molecular biology we for example use explanations of models to get new knowledge about the complex genomic mechanisms driving cancer or aging.</p>
+  </section>
 
-<p>Our research spans from foundations to applications in practice. One focus lies on <em>extracting new scientific insights</em> from models that often surpass human experts through methods for Interpretability of Machine Learning models.
-In molecular biology we for example use explanations of models to get new knowledge about the complex genomic mechanisms driving cancer or aging. 
-In Neuroscience, we are interested in studying the brain <em>through</em> understanding a artificial neural model encoding brain activations, for example to locate and understand the processing of visual stimuli in the brain.</p>
+  
+  
+  
 
-<p>We further study the Explainability of models in challenging biomedical tasks, such as biomedical imaging in cancer, where an understanding of the decision-making process of a model is essential
-for a model to be deployed and trusted in practice.</p>
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
+
+<div class="feature">
+  <a class="feature-image" aria-label="Inherently Interpretable decision-making">
+    <img src="/images/cave.png" loading="lazy" alt="Inherently Interpretable decision-making" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  <div class="feature-text">
+    
+      <p class="feature-title">Inherently Interpretable decision-making</p>
+    
+    
+<p><em>Inherently interpretable models</em> are key to ensure explanations that are <em>faithful</em> to the actual model decisions. Such Explanations that reveal the true decision-making of the model are key in high-stakes settings in practice,
+for example in biomedical imaging – e.g., predicting cancer risk or events based on radiological images, tissue stains, or skin screens.
+We are interested in developing new methodology that yields both highly performant but still inherently interpretable models, ensure that explanations are correctly grounded in the input image, as well as models that are inherently interpretabl while emitting other properties such as OOD robustness.
+Most recently, we have been interested in enabling inherent explanations on downstream tasks for foundation models such as CLIP, and making multimodal model reasoning, such as of Vision Language Models, more transparent.</p>
+
+
+  </div>
+</div>
   </section>
 
   
@@ -477,36 +508,8 @@ for a model to be deployed and trusted in practice.</p>
 While not making a black box model fully transparent, by providing a glimpse into the black box these methods have the great advantage that they do not compromise performance, which is a desiderata for a neural network in practice. 
 A majority of post-hoc explanation approaches, however, focus on <em>instance-specific explanations</em>, giving insights into why a decision was made for a particular instance (e.g., saliency maps, GradCam, Integrated Gradients,
 LIME, …).
-We are interested in <em>global explanations</em> that describe the general information encoded for example by a group of neurons and discovering such feature-encoding neuron groups in the first place and provide these along with theoretical guarantees.</p>
-
-
-  </div>
-</div>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page">
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-<div class="feature">
-  <a class="feature-image" aria-label="Inherently Interpretable decision-making">
-    <img src="/images/cave.png" loading="lazy" alt="Inherently Interpretable decision-making" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  <div class="feature-text">
-    
-      <p class="feature-title">Inherently Interpretable decision-making</p>
-    
-    
-<p><em>Inherently interpretable models</em> are key to ensure explanations that are <em>faithful</em> to the actual model decisions. Such Explanations that reveal the true decision-making of the model are key in high-stakes settings in practice,
-for example in biomedical imaging – e.g., predicting cancer risk or events based on radiological images, tissue stains, or skin screens.
-We are interested in developing new methodology that yields both highly performant but still inherently interpretable models, ensure that explanations are correctly grounded in the input image, as well as models that are inherently interpretabl while emitting other properties such as OOD robustness.</p>
+We are interested in <em>faithful explanations</em> that accuratly describe the general information encoded for example by a group of neurons and discovering such feature-encoding sub-networks (<em>mechanistic circuits</em>).
+A recent focus of the group has been to also develop <em>theoretical guarantees</em>, e.g. on robustness or uncertainty, for such circuitry</p>
 
 
   </div>
@@ -578,113 +581,6 @@ We focus on the question of how we can prune networks to <em>extreme sparsity</e
   dark: ;
   size: ;
 -->
-
-<h2 id="list-of-publications">List of Publications</h2>
-
-<h3 id="2025">2025</h3>
-
-<p>Parchami-Araghi, A, Rao, S, Fischer, J, Schiele, B, <strong><em>FaCT: Faithful Concept Traces for Explaining Neural Network Decisions</em></strong> accepted at NeurIPS 2025. (24.5% acceptence rate) [<a href="https://arxiv.org/abs/2510.25512">preprint</a>] [<a href="https://github.com/m-parchami/FaCT">Code</a>]</p>
-
-<p>Görgün, A, Schiele, B, Fischer, J, <strong><em>VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow</em></strong> accepted at ICCV 2025. (24% acceptance rate) [<a href="https://arxiv.org/abs/2503.22399">preprint</a>] [<a href="https://adagorgun.github.io/VITAL-Project/">project page</a>]</p>
-
-<p>Görgün, A, Sammani, F, Deligiannis, N, Schiele, B, Fischer, J, <strong><em>Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions</em></strong> preprint: arXiv:2512.08486 [[preprint](https://arxiv.org/pdf/2512.08486]</p>
-
-<p>Zhu, J, Wu, Y, Zhu, W, Cao, J, Zheng, Y, Chen, Y, Yang, X, Schiele, B, Fischer, J, Hu, X, <strong><em>LayerCake: Token-Aware Contrastive Decoding within Large Language Model Layers</em></strong> preprint: arXiv:507.04404, 2025. [<a href="https://arxiv.org/abs/507.04404">preprint</a>]</p>
-
-<p>Hedderich, MA, Wang, A, Zhao, R, Eichin, F, Fischer, J, Plank, B, <strong><em>What’s the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns</em></strong> accepted at ACL (main conference) 2025. [<a href="https://arxiv.org/abs/2504.15815">preprint</a>]</p>
-
-<p>Pham, N, Schiele, B, Kortylewski, A*, Fischer, J*, <strong><em>Escaping Plato’s Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes</em></strong> preprint: arXiv:2503.13429, 2025. [<a href="https://arxiv.org/abs/2503.13429">preprint</a>] [<a href="https://phamleyennhi.github.io/cave/">project page</a>]
-*equal contribution</p>
-
-<p>Walter, NP, Vreeken, J, Fischer, J, <strong><em>Now you see me! A framework for obtaining class-relevant saliency maps</em></strong> preprint: arXiv:2503.07346, 2025. [<a href="https://arxiv.org/abs/2503.07346">preprint</a>] [<a href="https://nilspwalter.github.io/var-page/">project page</a>]</p>
-
-<p>Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, <strong><em>Disentangling Polysemantic Channels in Convolutional Neural Networks</em></strong> accepted at CVPR workshop on Mechanistic Interpretability for Vision (MIV) 2025. [<a href="https://arxiv.org/abs/2504.12939">preprint</a>]</p>
-
-<p>Sammani, F, Fischer, J, Deligiannis, N, <strong><em>Unlocking Open-Set Language Accessibility in Vision Models</em></strong> preprint: arXiv:2503.10981, 2025. [<a href="https://arxiv.org/abs/2503.10981">preprint</a>]</p>
-
-<p>Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, <strong><em>Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks</em></strong> <em>accepted at Biology</em> of Sex Differences, 2025. (IF: 8.24, 2022) [<a href="https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract">preprint</a>]</p>
-
-<p>Fanfani, V, Shutta, KH, Mandros, P, Fischer, J, Saha, E, Micheletti, S, Chen, C, Guebila, MB, Lopes-Ramos, CM, Quackenbush, J, <strong><em>Reproducible processing of TCGA regulatory networks</em></strong> GigaScience, Oxford University Press, 2025. [<a href="https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giaf126/8293233">Article</a>]</p>
-
-<p>Lin, Y, Breuer, K, Weichenhan, D, Lafrenz, P, Wilk, A, Chepeleva, M, Mücke, O, Schönung, M, Petermann, F, Kensche, P, Weiser, L, Thommen, F, Giacomelli, G, Nordstroem, K, Gonzales-Avalos, E, Merkel, A, Kretzmer, H, Fischer, J, Krämer, S, Iskar, M, Wolf, S, Buchhalter, I, Esteller, M, Lawerenz, C, Twardziok, S, Zapatka, M, Hovestadt, V, Schlesner, M, Schulz, M, Hoffmann, S, Gerhauser, C, Walter, J, Hartmann, M, Lipka, DB, Assenov, Y, Bock, C, Plass, C, Toth, R, Lutsik, P <strong><em>Pipeline Olympics: continuable benchmarking of computational workflows for DNA methylation sequencing data against an experimental gold-standard</em></strong> <em>accepted at</em> Nucleic Acid Research, Oxford University Press, 2025. (IF: 16.8, 2024) [<a href="https://www.biorxiv.org/content/10.1101/2024.09.16.609142">preprint</a>]</p>
-
-<h3 id="2024">2024</h3>
-
-<p>Hossain, I‡, Fischer, J‡, Burkholz, R*, Quackenbush, J*, <strong><em>Pruning neural network models for gene regulatory dynamics using data and domain knowledge</em></strong> accepted at NeurIPS 2024. (25.8% acceptance rate, Core A*) [<a href="https://arxiv.org/abs/2403.04805">preprint</a>]<br>
-‡*equal contribution</p>
-
-<p>Fischer, J, Ma, R, <strong><em>Sailing in high-dimensional spaces: Low-dimensional embeddings through angle preservation</em></strong> preprint: arXiv:2406.09876, 2024. [<a href="https://arxiv.org/abs/2406.09876">preprint</a>]</p>
-
-<p>Fischer, J, Shutta, KH, Chen, C, Fanfani, V, Saha, E, Mandros, P, Guebila, MB, Xiu, J, Nieva, J, Liu, S, Uprety, D, Spetzler, D, Lopes-Ramos, CM, DeMeo, D, Quackenbush, J, <strong><em>Selective loss of Y chromosomes in lung adenocarcinoma modulates the tumor immune environment through cancer/testis antigens</em></strong> bioRxiv:10.1101/2024.09.19.613876v1, 2024. [<a href="https://www.biorxiv.org/content/10.1101/2024.09.19.613876v1">preprint</a>]</p>
-
-<p>Mandros, P, Gallagher, I, Fanfani, V, Chen, C, Fischer, J, Ismail, A, Hsu, L, Saha, E, DeConti, DK, Quackenbush, J, <strong><em>node2vec2rank: Large Scale and Stable Graph Differential Analysis via Multi-Layer Node Embeddings and Ranking</em></strong> preprint: bioRxiv:10.1101/2024.06.16.599201v1, 2024. [<a href="https://www.biorxiv.org/content/10.1101/2024.06.16.599201v1">preprint</a>]</p>
-
-<p>Walter, NP, Fischer, J, Vreeken, J, <strong><em>Finding Interpretable Class-Specific Patterns through Efficient Neural Search</em></strong> AAAI Conference on Artificial Intelligence (AAAI), 2024. (23.8% acceptance rate, Core A*) [<a href="https://ojs.aaai.org/index.php/AAAI/article/view/28756">Article</a>]</p>
-
-<p>Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, <strong><em>Bayesian inference of sample-specific coexpression networks</em></strong> Genome Research, CSHL, 2024. (IF: 6.70, 2022) [<a href="https://genome.cshlp.org/content/early/2024/08/10/gr.279117.124.full.pdf">PDF</a>]<br>
-‡equal contribution</p>
-
-<p>Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, <strong><em>Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)</em></strong> Conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) [<a href="https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_23">Conference paper</a>]<br>
-‡equal contribution</p>
-
-<p>Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, <strong><em>Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma</em></strong> Biology of Sex Differences 15(62), 2024. (IF: 8.24, 2022) [<a href="https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1">preprint</a>] [<a href="https://link.springer.com/article/10.1186/s13293-024-00634-y">Article</a>]</p>
-
-<p>Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, <strong><em>Biologically informed NeuralODEs for genome-wide regulatory dynamics</em></strong> Genome Biology 25(127), BMC, 2024. (IF: 17.4, 2022) [<a href="https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03264-0">Article</a>]</p>
-
-<h3 id="2023">2023</h3>
-
-<p>Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, <strong><em>Understanding and Mitigating Classification Errors Through Interpretable Token Patterns</em></strong> Empirical Methods in Natural Language Processing (EMNLP) BlackboxNLP workshop, 2023. [<a href="https://arxiv.org/abs/2311.10920">preprint</a>]<br>
-‡equal contribution</p>
-
-<p>Kamp, M, Fischer, J, Vreeken, J, <strong><em>Federated Learning from Small Datasets</em></strong>. International Conference on Learning Representations (ICLR), OpenReview, 2023. (31.8% acceptance rate, Core A*) [<a href="https://openreview.net/forum?id=hDDV1lsRV8">PDF</a>]</p>
-
-<p>Fischer, J, Burkholz, R, Vreeken, J, <strong><em>Preserving local densities in low-dimensional embeddings</em></strong>. preprint: arXiv:2301.13732, 2023.  [<a href="https://arxiv.org/abs/2301.13732">preprint</a>]</p>
-
-<p>Fischer, J, Schulz, MH, <strong><em>Efficiently Quantifying DNA Methylation for Bulk- and Single-cell Bisulfite Data</em></strong>. Bioinformatics 39(6), Oxford University Press, 2023. (IF: 5.8, 2023) [<a href="https://academic.oup.com/bioinformatics/article/39/6/btad386/7199582">Article</a>]</p>
-
-<h3 id="2022">2022</h3>
-
-<p>Hedderich, M‡, Fischer, J‡, Klakow, D, Vreeken, J, <strong><em>Label-Descriptive Patterns and their Application to Characterizing Classification Errors</em></strong>. In: Proceedings of the International Conference on Machine Learning (ICML), PMLR, 2022. (21.9% acceptance rate, Core A*)  [<a href="https://proceedings.mlr.press/v162/hedderich22a/hedderich22a.pdf">PDF</a>]<br>
-‡equal contribution</p>
-
-<p>Fischer, J, Burkholz, R, <strong><em>Plant ‘n’ Seek: Can You Find the Winning Ticket?</em></strong>
-International Conference on Learning Representations (ICLR), OpenReview, 2022. (32.9% acceptance rate, Core A*)  [<a href="https://openreview.net/pdf?id=9n9c8sf0xm">PDF</a>]</p>
-
-<p>Marx, A, Fischer, J, <strong><em>Estimating Mutual Information via Geodesic kNN.</em></strong>
-SIAM Conference on Data Mining (SDM), SIAM, 2022. (27.9% acceptance rate, Core A)  [<a href="https://epubs.siam.org/doi/abs/10.1137/1.9781611977172.47">Article</a>]</p>
-
-<h3 id="2021">2021</h3>
-
-<p>Fischer, J, Vreeken, J, <strong><em>Differentiable Pattern Set Mining</em></strong>. In: Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), ACM, 2021. (15.4% acceptance rate, Core A*)  [<a href="https://dl.acm.org/doi/10.1145/3447548.3467348">Article</a>]</p>
-
-<p>Fischer, J, Oláh, A, Vreeken, J, <strong><em>What’s in the Box? Explaining Neural Networks with Robust Rules</em></strong>. In: Proceedings of the International Conference on Machine Learning (ICML), PMLR, 2021. (21.4% acceptance rate, Core A*)  [<a href="https://proceedings.mlr.press/v139/fischer21b/fischer21b.pdf">PDF</a>]</p>
-
-<p>Fischer, J, Ardakani, FB, Kattler, K, Walter, J, Schulz, MH, <strong><em>CpG content-dependent associations between transcription factors and histone modifications</em></strong>. Plos ONE 16(4): e0249985, 2021. (IF: 3.7, 2023)  [<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0249985">Article</a>]</p>
-
-<p>Fischer, J‡, Gadhikar‡, A, Burkholz, R, <strong><em>Lottery Tickets with Nonzero Biases</em></strong>. preprint: arXiv:2110.11150, 2021.  [<a href="https://arxiv.org/abs/2110.11150">preprint</a>]<br>
-‡equal contribution</p>
-
-<p>Heiter, E, Fischer, J, Vreeken, J, <strong><em>Factoring out prior knowledge from low-dimensional embeddings</em></strong>. preprint: arXiv:2103.01828, 2021.  [<a href="https://arxiv.org/abs/2103.01828">preprint</a>]</p>
-
-<h3 id="2020">2020</h3>
-
-<p>Fischer, J, Vreeken, J, <strong><em>Discovering Succinct Pattern Sets Expressing Co-Occurrence and Mutual Exclusivity</em></strong>. In: Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD), ACM, 2020. (16.8% acceptance rate, Core A*)  [<a href="https://dl.acm.org/doi/10.1145/3394486.3403124">Article</a>]</p>
-
-<h3 id="2019">2019</h3>
-
-<p>Fischer, J, Vreeken, J, <strong><em>Sets of Robust Rules, and How to Find Them</em></strong> In: Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Data (ECMLPKDD), Springer, 2019. (17.7% acceptance rate, Core A, ==selected plenary talk==, &lt;5% of accepted papers)  [<a href="https://link.springer.com/chapter/10.1007/978-3-030-46150-8_3">Article</a>]</p>
-
-<p>Fischer, J, Schulz, MH, <strong><em>Fast and accurate bisulfite alignment and methylation calling for mammalian genomes</em></strong>. Talk at ISMB/ECCB, Basel, Switzerland, 2019.</p>
-
-<h3 id="2018">2018</h3>
-
-<p>Ardakani, FB Kattler, K, Nordström, KJ, Gasparoni, N, Gasparoni, G, Fuchs, S, Sinha, A, Barann, M, Ebert, P, Fischer, J, Hutter, B, Zipprich, G, Imbusch, CD, Felder, B, Eils, J, Brors, B, Lengauer, T, Manke, T, Rosenstiel, P, Walter, J, Schulz, MH, <strong><em>Integrative analysis of single-cell expression data reveals distinct regulatory states in bidirectional promoters</em></strong>. Epigenetics &amp; Chromatin 11(1): 66, 2018. (IF: 5.5, 2023)  [<a href="https://epigeneticsandchromatin.biomedcentral.com/articles/10.1186/s13072-018-0236-7">Article</a>]</p>
-
-<p>Fischer, J, Schulz, MH, <strong><em>Fast and accurate bisulfite alignment and methylation calling for mammalian genomes</em></strong>. Short talk/poster at RECOMB-seq/RECOMB, Paris, France, 2018.</p>
-
-<h3 id="theses">Theses</h3>
-
-<p>Fischer, J, More than the sum of its parts – pattern mining, neural networks, and how they complement each other. Doctoral Dissertation, 2022.  [<a href="https://publikationen.sulb.uni-saarland.de/handle/20.500.11880/33893?locale=en">PDF</a>]</p>
   </section>
 
 
@@ -749,7 +645,7 @@ SIAM Conference on Data Mining (SDM), SIAM, 2022. (27.9% acceptance rate, Core A
   </div>
 
   <div>
-    © 2025
+    © 2026
     Explainable Machine Learning Group
       |   Built with
     <a href="https://github.com/greenelab/lab-website-template">
