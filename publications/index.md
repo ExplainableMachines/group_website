@@ -12,18 +12,18 @@ nav:
 
 :page_facing_up: Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
 
+:page_facing_up: Hedderich, MA, Wang, A, Zhao, R, Eichin, F, Fischer, J, Plank, B, ***What's the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns*** accepted at ACL (main conference) 2025. \[[preprint](https://arxiv.org/abs/2504.15815)\]
+
+:page_facing_up: Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Channels in Convolutional Neural Networks*** accepted at CVPR workshop on Mechanistic Interpretability for Vision (MIV) 2025. \[[preprint](https://arxiv.org/abs/2504.12939)\]
+
 :memo: Görgün, A, Sammani, F, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** preprint: arXiv:2512.08486 \[[preprint](https://arxiv.org/pdf/2512.08486)\]
 
 :memo: Zhu, J, Wu, Y, Zhu, W, Cao, J, Zheng, Y, Chen, Y, Yang, X, Schiele, B, Fischer, J, Hu, X, ***LayerCake: Token-Aware Contrastive Decoding within Large Language Model Layers*** preprint: arXiv:507.04404, 2025. \[[preprint](https://arxiv.org/abs/507.04404)\]
-
-:page_facing_up: Hedderich, MA, Wang, A, Zhao, R, Eichin, F, Fischer, J, Plank, B, ***What's the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns*** accepted at ACL (main conference) 2025. \[[preprint](https://arxiv.org/abs/2504.15815)\]
 
 :memo: Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]
 \*equal contribution
 
 :memo: Walter, NP, Vreeken, J, Fischer, J, ***Now you see me! A framework for obtaining class-relevant saliency maps*** preprint: arXiv:2503.07346, 2025. \[[preprint](https://arxiv.org/abs/2503.07346)\] \[[project page](https://nilspwalter.github.io/var-page/)\]
-
-:page_facing_up: Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Channels in Convolutional Neural Networks*** accepted at CVPR workshop on Mechanistic Interpretability for Vision (MIV) 2025. \[[preprint](https://arxiv.org/abs/2504.12939)\]
 
 :memo: Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models*** preprint: arXiv:2503.10981, 2025. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 
@@ -38,20 +38,18 @@ nav:
 :page_facing_up: Hossain, I‡, Fischer, J‡, Burkholz, R\*, Quackenbush, J\*, ***Pruning neural network models for gene regulatory dynamics using data and domain knowledge*** accepted at NeurIPS 2024. (25.8% acceptance rate, Core A*) \[[preprint](https://arxiv.org/abs/2403.04805)\]\
 ‡\*equal contribution
 
+:page_facing_up: Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** AAAI Conference on Artificial Intelligence (AAAI), 2024. (23.8% acceptance rate, Core A*) \[[Article](https://ojs.aaai.org/index.php/AAAI/article/view/28756)\]
+
+:page_facing_up: Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** Conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[Conference paper](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_23)\]\
+‡equal contribution
+
 :memo: Fischer, J, Ma, R, ***Sailing in high-dimensional spaces: Low-dimensional embeddings through angle preservation*** preprint: arXiv:2406.09876, 2024. \[[preprint](https://arxiv.org/abs/2406.09876)\]
 
 :memo: Fischer, J, Shutta, KH, Chen, C, Fanfani, V, Saha, E, Mandros, P, Guebila, MB, Xiu, J, Nieva, J, Liu, S, Uprety, D, Spetzler, D, Lopes-Ramos, CM, DeMeo, D, Quackenbush, J, ***Selective loss of Y chromosomes in lung adenocarcinoma modulates the tumor immune environment through cancer/testis antigens*** bioRxiv:10.1101/2024.09.19.613876v1, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.09.19.613876v1)\]
 
-
 :memo: Mandros, P, Gallagher, I, Fanfani, V, Chen, C, Fischer, J, Ismail, A, Hsu, L, Saha, E, DeConti, DK, Quackenbush, J, ***node2vec2rank: Large Scale and Stable Graph Differential Analysis via Multi-Layer Node Embeddings and Ranking*** preprint: bioRxiv:10.1101/2024.06.16.599201v1, 2024. \[[preprint](https://www.biorxiv.org/content/10.1101/2024.06.16.599201v1)\]
 
-:page_facing_up: Walter, NP, Fischer, J, Vreeken, J, ***Finding Interpretable Class-Specific Patterns through Efficient Neural Search*** AAAI Conference on Artificial Intelligence (AAAI), 2024. (23.8% acceptance rate, Core A*) \[[Article](https://ojs.aaai.org/index.php/AAAI/article/view/28756)\]
-
-
 :blue_book: Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian inference of sample-specific coexpression networks*** Genome Research, CSHL, 2024. (IF: 6.70, 2022) \[[PDF](https://genome.cshlp.org/content/early/2024/08/10/gr.279117.124.full.pdf)\]\
-‡equal contribution
-
-:page_facing_up: Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian Optimized sample-specific Networks Obtained By Omics data (BONOBO)*** Conference for Research in Computational Molecular Biology (RECOMB), 2024. (16.5% acceptance rate) \[[Conference paper](https://link.springer.com/chapter/10.1007/978-1-0716-3989-4_23)\]\
 ‡equal contribution
 
 :blue_book: Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** Biology of Sex Differences 15(62), 2024. (IF: 8.24, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\] \[[Article](https://link.springer.com/article/10.1186/s13293-024-00634-y)\]
