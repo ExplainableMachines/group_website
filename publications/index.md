@@ -12,7 +12,7 @@ Parchami-Araghi, A, Rao, S, Fischer, J, Schiele, B, ***FaCT: Faithful Concept Tr
 
 :page_facing_up: Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
 
-:pencil: Görgün, A, Sammani, F, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** preprint: arXiv:2512.08486 \[[preprint](https://arxiv.org/pdf/2512.08486)\]
+:memo: Görgün, A, Sammani, F, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** preprint: arXiv:2512.08486 \[[preprint](https://arxiv.org/pdf/2512.08486)\]
 
 Zhu, J, Wu, Y, Zhu, W, Cao, J, Zheng, Y, Chen, Y, Yang, X, Schiele, B, Fischer, J, Hu, X, ***LayerCake: Token-Aware Contrastive Decoding within Large Language Model Layers*** preprint: arXiv:507.04404, 2025. \[[preprint](https://arxiv.org/abs/507.04404)\]
 

@@ -1,7 +1,7 @@
 ---
 name: Moussa Herrmann
 image: images/moussa_herrmann.jpg
-description: Bachelor Student
+description: Research Assistant
 role: hiwi
 # links:\
 #   github: todo
