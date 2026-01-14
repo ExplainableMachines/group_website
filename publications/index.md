@@ -10,9 +10,9 @@ nav:
 
 Parchami-Araghi, A, Rao, S, Fischer, J, Schiele, B, ***FaCT: Faithful Concept Traces for Explaining Neural Network Decisions*** accepted at NeurIPS 2025. (24.5% acceptence rate) \[[preprint](https://arxiv.org/abs/2510.25512)\] \[[Code](https://github.com/m-parchami/FaCT)\]
 
-Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
+:page_facing_up: Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
 
-Görgün, A, Sammani, F, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** preprint: arXiv:2512.08486 \[[preprint](https://arxiv.org/pdf/2512.08486)\]
+:pencil: Görgün, A, Sammani, F, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** preprint: arXiv:2512.08486 \[[preprint](https://arxiv.org/pdf/2512.08486)\]
 
 Zhu, J, Wu, Y, Zhu, W, Cao, J, Zheng, Y, Chen, Y, Yang, X, Schiele, B, Fischer, J, Hu, X, ***LayerCake: Token-Aware Contrastive Decoding within Large Language Model Layers*** preprint: arXiv:507.04404, 2025. \[[preprint](https://arxiv.org/abs/507.04404)\]
 
@@ -27,7 +27,7 @@ Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Ch
 
 Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models*** preprint: arXiv:2503.10981, 2025. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 
-Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks*** Biology of Sex Differences, 2025. (IF: 8.24, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
+:blue_book: Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks*** Biology of Sex Differences, 2025. (IF: 8.24, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
 
 Fanfani, V, Shutta, KH, Mandros, P, Fischer, J, Saha, E, Micheletti, S, Chen, C, Guebila, MB, Lopes-Ramos, CM, Quackenbush, J, ***Reproducible processing of TCGA regulatory networks*** GigaScience, Oxford University Press, 2025. \[[Article](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giaf126/8293233)\]
 
