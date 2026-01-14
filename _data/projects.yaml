@@ -1,3 +1,15 @@
+- title: CIS
+  subtitle: Studying concept lock-in in diffusion time
+  group: featured
+  image: images/cis.png
+  link: https://github.com/adagorgun/PCI-Prompt-Controlled-Interventions
+  description: We study when diffusion models generate and lock-in concepts during (diffusion) time by switching prompts during generation and measuring whether concepts can still be inserted (CIS). We show that this allows for efficient and more controlled image editing refinements.
+  tags:
+    - concept explanations
+    - interpretability
+    - diffusion
+    - image editing
+
 - title: ExplaiNN
   subtitle: Discovering patterns of neuron activations
   group: featured
@@ -5,33 +17,22 @@
   link: https://eda.rg.cispa.io/prj/explainn/
   description: We propose an algorithm that allows to find rules of neuron activations that describe how information is encoded and flowswithin a Neural Network, and allows to super-charge prototyping.
   tags:
-    - global explanations
+    - concept explanations
     - pattern mining
     - interpretability
     - rules
-
-
-- title: Premise
-  subtitle: Label-descriptive patterns
-  group: featured
-  image: images/premise.png
-  link: https://github.com/uds-lsv/PyPremise
-  description: We propose the algorithm Premise to discover label-descriptive patterns, which we show to be highly useful in characterizing classification errors in multimodal and language models.
-  tags:
-    - global explanations
-    - pattern mining
-    - differential patterns
 
 - title: CAVE
   subtitle: Robust and interpretable image classification
   group: featured
   image: images/cave_teaser.png
   link: https://phamleyennhi.github.io/cave/
-  description: We propose an image classifier that leverages available 3D information to learn robust neural object representations that are inherently interpretable.
+  description: We propose an image classifier that leverages available 3D information to learn neural object representations that are inherently interpretable and at the same time robust to out-of-distribution samples.
   tags:
-    - global explanations
+    - concept explanations
     - computer vision
     - 3D
+    - interpretability
     - inherent interpretability
     - robustnes
 
@@ -44,8 +45,20 @@
   tags:
     - global explanations
     - feature visualization
+    - interpretability
     - mechanistic interpretability
     - computer vision
+
+
+- title: Premise
+  subtitle: Label-descriptive patterns
+  image: images/premise.png
+  link: https://github.com/uds-lsv/PyPremise
+  description: We propose the algorithm Premise to discover label-descriptive patterns, which we show to be highly useful in characterizing classification errors in multimodal and language models.
+  tags:
+    - global explanations
+    - pattern mining
+    - differential patterns
 
 
 - title: Binaps
