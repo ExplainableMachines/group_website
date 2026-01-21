@@ -5,6 +5,9 @@ nav:
   tooltip: Published works
 ---
 
+### 2026
+
+:memo: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders*** preprint: arXiv:2601.13798, 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
 
 ### 2025
 
