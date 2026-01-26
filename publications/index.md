@@ -7,6 +7,11 @@ nav:
 
 ### 2026
 
+:page_facing_up: Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]
+\*equal contribution
+
+:page_facing_up: Görgün, A, Sammani, F, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/pdf/2512.08486)\]
+
 :memo: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders*** preprint: arXiv:2601.13798, 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
 
 ### 2025
@@ -19,12 +24,8 @@ nav:
 
 :page_facing_up: Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Channels in Convolutional Neural Networks*** accepted at CVPR workshop on Mechanistic Interpretability for Vision (MIV) 2025. \[[preprint](https://arxiv.org/abs/2504.12939)\]
 
-:memo: Görgün, A, Sammani, F, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** preprint: arXiv:2512.08486 \[[preprint](https://arxiv.org/pdf/2512.08486)\]
-
 :memo: Zhu, J, Wu, Y, Zhu, W, Cao, J, Zheng, Y, Chen, Y, Yang, X, Schiele, B, Fischer, J, Hu, X, ***LayerCake: Token-Aware Contrastive Decoding within Large Language Model Layers*** preprint: arXiv:507.04404, 2025. \[[preprint](https://arxiv.org/abs/507.04404)\]
 
-:memo: Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** preprint: arXiv:2503.13429, 2025. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]
-\*equal contribution
 
 :memo: Walter, NP, Vreeken, J, Fischer, J, ***Now you see me! A framework for obtaining class-relevant saliency maps*** preprint: arXiv:2503.07346, 2025. \[[preprint](https://arxiv.org/abs/2503.07346)\] \[[project page](https://nilspwalter.github.io/var-page/)\]
 
