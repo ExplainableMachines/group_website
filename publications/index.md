@@ -7,16 +7,18 @@ nav:
 
 ### 2026
 
-:page_facing_up: Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]
+:page_facing_up: Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]\
 \*equal contribution
 
-:page_facing_up: Görgün, A, Sammani, F, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/pdf/2512.08486)\]
+:page_facing_up: Görgün, A‡, Sammani, F‡, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/pdf/2512.08486)\] \[[project page](https://adagorgun.github.io/PCI-Project/)\]\
+‡equal contribution
 
 :memo: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders*** preprint: arXiv:2601.13798, 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
 
 ### 2025
 
-:page_facing_up: Parchami-Araghi, A, Rao, S, Fischer, J, Schiele, B, ***FaCT: Faithful Concept Traces for Explaining Neural Network Decisions*** accepted at NeurIPS 2025. (24.5% acceptence rate) \[[preprint](https://arxiv.org/abs/2510.25512)\] \[[Code](https://github.com/m-parchami/FaCT)\]
+:page_facing_up: Parchami-Araghi, A, Rao, S, Fischer, J\*, Schiele, B\*, ***FaCT: Faithful Concept Traces for Explaining Neural Network Decisions*** accepted at NeurIPS 2025. (24.5% acceptence rate) \[[preprint](https://arxiv.org/abs/2510.25512)\] \[[Code](https://github.com/m-parchami/FaCT)\]\
+\*equal contribution
 
 :page_facing_up: Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
 
