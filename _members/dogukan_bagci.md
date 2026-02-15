@@ -1,6 +1,6 @@
 ---
 name: Dogukan Bagci
-image: images/dogukan_bagci_headcrop.jpg
+image: images/dogukan_bagci_headcrop.jpeg
 description: Master Student
 role: master
 links:
