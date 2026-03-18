@@ -1,7 +1,7 @@
 ---
 name: Kai Wittenmayer
 image: images/Kai_Wittenmayer.jpg
-description: Master Student
+description: PhD Student
 role: phd
 links:
    github: kawi19
