@@ -7,7 +7,7 @@ nav:
 
 ### 2026
 
-:page_facing_up: Sammani, F, Fischer, J, Deligiannis, N, ***Unlocking Open-Set Language Accessibility in Vision Models*** accepted at CVPR Findings 2026. \[[preprint](https://arxiv.org/abs/2503.10981)\]
+:page_facing_up: Sammani, F, Fischer, J, Deligiannis, N, ***CLIP-Free, Label Free, Unsupervised Concept Bottleneck Models*** accepted at CVPR Findings 2026. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 
 :page_facing_up: Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]\
 \*equal contribution
@@ -15,7 +15,7 @@ nav:
 :page_facing_up: Görgün, A‡, Sammani, F‡, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/pdf/2512.08486)\] \[[project page](https://adagorgun.github.io/PCI-Project/)\]\
 ‡equal contribution
 
-:memo: Alaa Anani, Tobias Lorenz, Bernt Schiele, Mario Fritz, Jonas Fischer ***Certified Circuits: Stability Guarantees for Mechanistic Circuits*** preprint: arXiv:2602.22968, 2026. \[[preprint](https://arxiv.org/abs/2602.22968)\]\
+:memo: Anani, A, Lorenz, T, Schiele, B, Fritz, M\*, Fischer, J\*, ***Certified Circuits: Stability Guarantees for Mechanistic Circuits*** preprint: arXiv:2602.22968, 2026. \[[preprint](https://arxiv.org/abs/2602.22968)\]\
 \*equal contribution
 
 :memo: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders*** preprint: arXiv:2601.13798, 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
