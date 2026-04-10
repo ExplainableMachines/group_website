@@ -1,7 +1,7 @@
 ---
 name: Nina Zukowska
 image: images/nina_zukowska.jpeg
-description: Visiting Researcher
+description: Master Student
 role: master
 links:
    linkedin: nina-zukowska

@@ -2,7 +2,7 @@
 name: Simone Facchiano
 image: images/SimoneFacchiano_headcrop.jpg
 description: Visiting Researcher
-role: visitor
+role: visitingres
 ---
 
 Simone is a visiting PhD Student from Sapienza University of Rome joining the Department.
