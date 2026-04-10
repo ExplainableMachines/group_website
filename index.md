@@ -9,6 +9,11 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news11 %}
+ 2/25 Great to see two of our works at ICLR in Rio and one at CVPR as Findings in Denver. We discuss how to achieve at the same time robustness *and* Interpretability in *Cave*, led by Nhi, how to discover when concepts are fixed during diffusion and how to exploit this for editing in *PCI*, led by Ada, and how to get CLIP-free, label-free Concept Bottleneck Models, led by Fawaz. Fantastic works!
+{% endcapture %}
+
+
 {% capture news10 %}
  12/25 Jonas achieved the **Top Reviewer** Hattrick, being awarded this recognition at the three core ML conferences NeurIPS, ICML, and ICLR in the 2025 cycle.
 {% endcapture %}
@@ -48,6 +53,12 @@ This is the home of the Explainable Machine Learning research group of the Depar
 {% capture news1 %}
  1/1/24 *The Explainable Machine Learning Group was founded.*
 {% endcapture %}
+
+{%
+  include alert.html
+  type="info"
+  content=news11
+%}
 
 {%
   include alert.html
