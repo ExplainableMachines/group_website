@@ -9,6 +9,10 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news12 %}
+ 5/25 Another two works published at top tier conferences! At ICML, happening this year in Seoul, we present how to improve *any* attribution method with a simple augmentation that better reflects the down-stream classification tasks, presented by Nils, and how to *provably certify* the robustness of mechanistic circuits, thereby improving OOD robustness in application, led by Alaa. Amazing works by amazing people!
+{% endcapture %}
+
 {% capture news11 %}
  2/25 Great to see two of our works at ICLR in Rio and one at CVPR as Findings in Denver. We discuss how to achieve at the same time robustness *and* Interpretability in *Cave*, led by Nhi, how to discover when concepts are fixed during diffusion and how to exploit this for editing in *PCI*, led by Ada, and how to get CLIP-free, label-free Concept Bottleneck Models, led by Fawaz. Fantastic works!
 {% endcapture %}
@@ -53,6 +57,12 @@ This is the home of the Explainable Machine Learning research group of the Depar
 {% capture news1 %}
  1/1/24 *The Explainable Machine Learning Group was founded.*
 {% endcapture %}
+
+{%
+  include alert.html
+  type="info"
+  content=news12
+%}
 
 {%
   include alert.html
