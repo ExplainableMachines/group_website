@@ -29,7 +29,7 @@ nav:
 
 :memo: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***CFM: Language-aligned Concept Foundation Model for Vision*** preprint: arXiv:2601.13798, 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
 
-:blue_book: ***A protocol for deploying a JupyterHub server for academic research using Netbooks as example*** Current Protocols, DOI 10.1002/cpz1.70396 Wiley, 2026.
+:blue_book: Guebila, MB et al. ***A protocol for deploying a JupyterHub server for academic research using Netbooks as example*** Current Protocols, DOI 10.1002/cpz1.70396 Wiley, 2026.
 
 ### 2025
 
