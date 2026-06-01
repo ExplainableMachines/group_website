@@ -13,6 +13,8 @@ nav:
 :page_facing_up: Anani, A, Lorenz, T, Schiele, B, Fritz, M\*, Fischer, J\*, ***Certified Circuits: Stability Guarantees for Mechanistic Circuits*** accepted at ICML 2026. \[[preprint](https://arxiv.org/abs/2602.22968)\]\
 \*equal contribution
 
+:page_facing_up: Paulus, L, Fischer, J, Vreeken, J, ***Differentiably Discovering Sets of Rules*** accepted at KDD 2026.
+
 :page_facing_up: Sammani, F, Fischer, J, Deligiannis, N, ***CLIP-Free, Label Free, Unsupervised Concept Bottleneck Models*** accepted at CVPR Findings 2026. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 
 :page_facing_up: Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]\
@@ -21,7 +23,13 @@ nav:
 :page_facing_up: Görgün, A‡, Sammani, F‡, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/pdf/2512.08486)\] \[[project page](https://adagorgun.github.io/PCI-Project/)\]\
 ‡equal contribution
 
-:memo: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***Insight: Interpretable Semantic Hierarchies in Vision-Language Encoders*** preprint: arXiv:2601.13798, 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
+:memo: Bagci, D, Schiele, B, Schaub-Meyer, S, Fischer, J, Hesse, R, ***Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance*** peprint: arXiv:2605.31304, 2026. \[[preprint](https://arxiv.org/abs/2605.31304)\]
+
+:memo: Żukowska, N, Stammer, W, Schiele, B, Fischer, J, ***Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers*** preprint: arXiv:2604.14477, 2026. \[[preprint](https://arxiv.org/abs/2604.14477)\]
+
+:memo: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***CFM: Language-aligned Concept Foundation Model for Vision*** preprint: arXiv:2601.13798, 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
+
+:blue_book: ***A protocol for deploying a JupyterHub server for academic research using Netbooks as example*** Current Protocols, DOI 10.1002/cpz1.70396 Wiley, 2026.
 
 ### 2025
 
@@ -36,7 +44,7 @@ nav:
 
 :memo: Zhu, J, Wu, Y, Zhu, W, Cao, J, Zheng, Y, Chen, Y, Yang, X, Schiele, B, Fischer, J, Hu, X, ***LayerCake: Token-Aware Contrastive Decoding within Large Language Model Layers*** preprint: arXiv:507.04404, 2025. \[[preprint](https://arxiv.org/abs/507.04404)\]
 
-:blue_book: Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Identifying Sex Differences in Lung Adenocarcinoma Using Multi-Omics Integrative Protein Signaling Networks*** Biology of Sex Differences, 2025. (IF: 8.24, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
+:blue_book: Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Multi-omics protein signaling networks identify sex-specific therapeutic candidates in lung adenocarcinoma*** Biology of Sex Differences, 2025. (IF: 8.24, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
 
 :blue_book: Fanfani, V, Shutta, KH, Mandros, P, Fischer, J, Saha, E, Micheletti, S, Chen, C, Guebila, MB, Lopes-Ramos, CM, Quackenbush, J, ***Reproducible processing of TCGA regulatory networks*** GigaScience, Oxford University Press, 2025. \[[Article](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giaf126/8293233)\]
 

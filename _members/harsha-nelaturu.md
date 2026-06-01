@@ -9,4 +9,4 @@ links:
 ---
 
 During his time as a research assistant at EML, Harsha worked on gaining insights into the human brain through understanding artifical neural representations.
-He is now a Research Intern at Amazon AWS in Tübingen.
+He is now a PhD Student at Zuse Institute Berlin.
