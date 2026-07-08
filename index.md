@@ -9,6 +9,10 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news13 %}
+ 6/25 At ECCV we will present how to discover more *faithful mechanistic circuits* in vision models, and how to use them for *safety steering*, presented by Nina. We will further present our work on a *Concept Foundation Model*, for the first time enabling concept-based explanations for *any* down-stream task, including fine-grained vision tasks or LVLM reasoning, not just classification. This work is presented by Kai. What a year, great job all!
+{% endcapture %}
+
 {% capture news12 %}
  5/25 Another two works published at top tier conferences! At ICML, happening this year in Seoul, we present how to improve *any* attribution method with a simple augmentation that better reflects the down-stream classification tasks, presented by Nils, and how to *provably certify* the robustness of mechanistic circuits, thereby improving OOD robustness in application, led by Alaa. Amazing works by amazing people!
 {% endcapture %}
