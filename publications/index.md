@@ -10,7 +10,7 @@ nav:
 
 :page_facing_up: Walter, NP, Vreeken, J, Fischer, J, ***Hidden in Plain Sight – Class Competition Focuses Attribution Maps*** accepted at ICML 2026. \[[preprint](https://arxiv.org/abs/2503.07346)\] \[[project page](https://nilspwalter.github.io/var-page/)\]
 
-:page_facing_up: Anani, A, Lorenz, T, Schiele, B, Fritz, M\*, Fischer, J\*, ***Certified Circuits: Stability Guarantees for Mechanistic Circuits*** accepted at ICML 2026. \[[preprint](https://arxiv.org/abs/2602.22968)\]\
+:page_facing_up: Anani, A, Lorenz, T, Schiele, B, Fritz, M\*, Fischer, J\*, ***Certified Circuits: Stability Guarantees for Mechanistic Circuits*** accepted at ICML 2026. \[[preprint](https://arxiv.org/abs/2602.22968)\] \[[project page](https://alaaanani.github.io/certified-circuits)\]\
 \*equal contribution
 
 :page_facing_up: Paulus, L, Fischer, J, Vreeken, J, ***Differentiably Discovering Sets of Rules*** accepted at KDD 2026.
