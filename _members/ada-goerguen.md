@@ -9,4 +9,4 @@ links:
 #   twitter: todo
 ---
 
-Ada is a PhD student in the group, working on global explanations for neural models with a focus on feature visualizations and prototype networks.
+Ada is a PhD student in the group, initally workin on global explanations for neural models such as feature visualizations. More recently, she has been investigating the representations learned by image-generating diffusion models, understanding when, where, and how concepts emerge to improve down-stream tasks and solve common failure modes, such as complex compositional generation.
