@@ -1,3 +1,4 @@
+---
 name: Samuele Punzo
 image: images/SamuelePunzo_photo.jpg
 description: Visiting Researcher
