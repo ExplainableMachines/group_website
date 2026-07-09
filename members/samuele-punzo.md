@@ -2,6 +2,10 @@ name: Samuele Punzo
 image: images/SamuelePunzo_photo.jpg
 description: Visiting Researcher
 role: visitingres
+links:
+   home-page: https://samuelepunzo.github.io/
+   github: SamuelePunzo
+   linkedin: samuele-punzo
 ---
 
 Samuele is visiting the EML group over the summer 2026 as an intern.
