@@ -8,12 +8,16 @@ nav:
 ### 2026
 
 
+:page_facing_up: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***CFM: Language-aligned Concept Foundation Model for Vision*** accepted at ECCV 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
+
+:page_facing_up: Żukowska, N, Stammer, W, Schiele, B, Fischer, J, ***Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers*** accepted at ECCV 2026. \[[preprint](https://arxiv.org/abs/2604.14477)\]
+
 :page_facing_up: Walter, NP, Vreeken, J, Fischer, J, ***Hidden in Plain Sight – Class Competition Focuses Attribution Maps*** accepted at ICML 2026. \[[preprint](https://arxiv.org/abs/2503.07346)\] \[[project page](https://nilspwalter.github.io/var-page/)\]
 
 :page_facing_up: Anani, A, Lorenz, T, Schiele, B, Fritz, M\*, Fischer, J\*, ***Certified Circuits: Stability Guarantees for Mechanistic Circuits*** accepted at ICML 2026. \[[preprint](https://arxiv.org/abs/2602.22968)\] \[[project page](https://alaaanani.github.io/certified-circuits)\]\
 \*equal contribution
 
-:page_facing_up: Paulus, L, Fischer, J, Vreeken, J, ***Differentiably Discovering Sets of Rules*** accepted at KDD 2026.
+:page_facing_up: Paulus, L, Fischer, J, Vreeken, J, ***Differentiably Discovering Sets of Rules*** accepted at KDD 2026. \[[Publication](https://dl.acm.org/doi/10.1145/3770855.3817887)\]
 
 :page_facing_up: Sammani, F, Fischer, J, Deligiannis, N, ***CLIP-Free, Label Free, Unsupervised Concept Bottleneck Models*** accepted at CVPR Findings 2026. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 
@@ -25,9 +29,6 @@ nav:
 
 :memo: Bagci, D, Schiele, B, Schaub-Meyer, S, Fischer, J, Hesse, R, ***Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance*** peprint: arXiv:2605.31304, 2026. \[[preprint](https://arxiv.org/abs/2605.31304)\]
 
-:memo: Żukowska, N, Stammer, W, Schiele, B, Fischer, J, ***Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers*** preprint: arXiv:2604.14477, 2026. \[[preprint](https://arxiv.org/abs/2604.14477)\]
-
-:memo: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***CFM: Language-aligned Concept Foundation Model for Vision*** preprint: arXiv:2601.13798, 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
 
 :blue_book: Guebila, MB et al. ***A protocol for deploying a JupyterHub server for academic research using Netbooks as example*** Current Protocols, DOI 10.1002/cpz1.70396 Wiley, 2026.
 
