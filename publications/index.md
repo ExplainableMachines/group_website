@@ -6,11 +6,10 @@ nav:
 ---
 
 ### 2026
-
-:page_facing_up: Pham, N, Wewer, C, Schiele, B, Fischer, J*, Lensse, JE*, ***TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens*** accepted at NeurIPS 2026.\
+:page_facing_up: Facchiano, S, Lenssen, JE, Schiele, B, Stammer, W, Galasso, F*, Fischer, J*, ***Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond*** accepted at NeurIPS 2026. \[[project page](https://simonefacchiano.github.io/steeringfields-projectpage/)\]\
 \*equal contribution
 
-:page_facing_up: Facchiano, S, Lenssen, JE, Schiele, B, Stammer, W, Galasso, F*, Fischer, J*, ***Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond*** accepted at NeurIPS 2026.\
+:page_facing_up: Pham, N, Wewer, C, Schiele, B, Fischer, J*, Lensse, JE*, ***TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens*** accepted at NeurIPS 2026.\
 \*equal contribution
 
 :page_facing_up: Suhas, S, Das, A, Fischer, J, ***OneScene-Bench: Do Vision-Language Models Integrate Evidence Across Views?*** accepted at NeurIPS VLM4RWS workshop 2026.
@@ -26,7 +25,7 @@ nav:
 
 :page_facing_up: Paulus, L, Fischer, J, Vreeken, J, ***Differentiably Discovering Sets of Rules*** accepted at KDD 2026. \[[Article](https://dl.acm.org/doi/10.1145/3770855.3817887)\]
 
-:page_facing_up: Sammani, F, Fischer, J, Deligiannis, N, ***CLIP-Free, Label Free, Unsupervised Concept Bottleneck Models*** accepted at CVPR Findings 2026. \[[preprint](https://arxiv.org/abs/2503.10981)\]
+:page_facing_up: Sammani, F, Fischer, J, Deligiannis, N, ***CLIP-Free, Label Free, Unsupervised Concept Bottleneck Models*** accepted at CVPR Findings 2026. \[[PDF](https://openaccess.thecvf.com/content/CVPR2026F/papers/Sammani_CLIP-Free_Label_Free_Unsupervised_Concept_Bottleneck_Models_CVPRF_2026_paper.pdf)\]
 
 :page_facing_up: Pham, N, Schiele, B, Kortylewski, A\*, Fischer, J\*, ***Escaping Plato's Cave: Robust Conceptual Reasoning through Interpretable 3D Neural Object Volumes*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/abs/2503.13429)\] \[[project page](https://phamleyennhi.github.io/cave/)\]\
 \*equal contribution
@@ -37,26 +36,26 @@ nav:
 :memo: Bagci, D, Schiele, B, Schaub-Meyer, S, Fischer, J, Hesse, R, ***Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance*** peprint: arXiv:2605.31304, 2026. \[[preprint](https://arxiv.org/abs/2605.31304)\]
 
 
-:blue_book: Guebila, MB et al. ***A protocol for deploying a JupyterHub server for academic research using Netbooks as example*** Current Protocols, DOI 10.1002/cpz1.70396 Wiley, 2026.
+:blue_book: Guebila, MB et al. ***A protocol for deploying a JupyterHub server for academic research using Netbooks as example*** Current Protocols, DOI 10.1002/cpz1.70396 Wiley, 2026. \[[Article](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.70396)\]
 
 ### 2025
 
-:page_facing_up: Parchami-Araghi, A, Rao, S, Fischer, J\*, Schiele, B\*, ***FaCT: Faithful Concept Traces for Explaining Neural Network Decisions*** accepted at NeurIPS 2025. (24.5% acceptence rate) \[[preprint](https://arxiv.org/abs/2510.25512)\] \[[Code](https://github.com/m-parchami/FaCT)\]\
+:page_facing_up: Parchami-Araghi, A, Rao, S, Fischer, J\*, Schiele, B\*, ***FaCT: Faithful Concept Traces for Explaining Neural Network Decisions*** accepted at NeurIPS 2025. (24.5% acceptence rate) \[[PDF](https://papers.nips.cc/paper_files/paper/2025/file/b115c688cbc8c3402f56b26333c7c53a-Paper-Conference.pdf)\] \[[Code](https://github.com/m-parchami/FaCT)\]\
 \*equal contribution
 
-:page_facing_up: Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[preprint](https://arxiv.org/abs/2503.22399)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
+:page_facing_up: Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Gorgun_VITAL_More_Understandable_Feature_Visualization_through_Distribution_Alignment_and_Relevant_ICCV_2025_paper.pdf)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
 
-:page_facing_up: Hedderich, MA, Wang, A, Zhao, R, Eichin, F, Fischer, J, Plank, B, ***What's the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns*** accepted at ACL (main conference) 2025. \[[preprint](https://arxiv.org/abs/2504.15815)\]
+:page_facing_up: Hedderich, MA, Wang, A, Zhao, R, Eichin, F, Fischer, J, Plank, B, ***What's the Difference? Supporting Users in Identifying the Effects of Prompt and Model Changes Through Token Patterns*** accepted at ACL (main conference) 2025. \[[PDF](https://aclanthology.org/2025.acl-long.985.pdf)\]
 
 :page_facing_up: Hesse, R, Fischer, J, Schaub-Meyer, S, Roth, S, ***Disentangling Polysemantic Channels in Convolutional Neural Networks*** accepted at CVPR workshop on Mechanistic Interpretability for Vision (MIV) 2025. \[[preprint](https://arxiv.org/abs/2504.12939)\]
 
 :memo: Zhu, J, Wu, Y, Zhu, W, Cao, J, Zheng, Y, Chen, Y, Yang, X, Schiele, B, Fischer, J, Hu, X, ***LayerCake: Token-Aware Contrastive Decoding within Large Language Model Layers*** preprint: arXiv:507.04404, 2025. \[[preprint](https://arxiv.org/abs/507.04404)\]
 
-:blue_book: Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Multi-omics protein signaling networks identify sex-specific therapeutic candidates in lung adenocarcinoma*** Biology of Sex Differences, 2025. (IF: 8.24, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2025.02.03.636354v1.abstract)\]
+:blue_book: Chen, C, Saha, E, Fischer, J, Guebila, MB, Fanfani, V, Shutta, K, Padi, M, Glass, K, DeMeo, D, Lopes-Ramos, C, Quackenbush, J, ***Multi-omics protein signaling networks identify sex-specific therapeutic candidates in lung adenocarcinoma*** Biology of Sex Differences 16(71), 2025. (IF: 8.24, 2022) \[[Article](https://link.springer.com/article/10.1186/s13293-025-00752-1)\]
 
 :blue_book: Fanfani, V, Shutta, KH, Mandros, P, Fischer, J, Saha, E, Micheletti, S, Chen, C, Guebila, MB, Lopes-Ramos, CM, Quackenbush, J, ***Reproducible processing of TCGA regulatory networks*** GigaScience, Oxford University Press, 2025. \[[Article](https://academic.oup.com/gigascience/advance-article/doi/10.1093/gigascience/giaf126/8293233)\]
 
-:blue_book: Lin, Y, Breuer, K, Weichenhan, D, Lafrenz, P, Wilk, A, Chepeleva, M, Mücke, O, Schönung, M, Petermann, F, Kensche, P, Weiser, L, Thommen, F, Giacomelli, G, Nordstroem, K, Gonzales-Avalos, E, Merkel, A, Kretzmer, H, Fischer, J, Krämer, S, Iskar, M, Wolf, S, Buchhalter, I, Esteller, M, Lawerenz, C, Twardziok, S, Zapatka, M, Hovestadt, V, Schlesner, M, Schulz, M, Hoffmann, S, Gerhauser, C, Walter, J, Hartmann, M, Lipka, DB, Assenov, Y, Bock, C, Plass, C, Toth, R, Lutsik, P ***Pipeline Olympics: continuable benchmarking of computational workflows for DNA methylation sequencing data against an experimental gold-standard*** *accepted at* Nucleic Acid Research, Oxford University Press, 2025. (IF: 16.8, 2024) \[[preprint](https://www.biorxiv.org/content/10.1101/2024.09.16.609142)\]
+:blue_book: Lin, Y, Breuer, K, Weichenhan, D, Lafrenz, P, Wilk, A, Chepeleva, M, Mücke, O, Schönung, M, Petermann, F, Kensche, P, Weiser, L, Thommen, F, Giacomelli, G, Nordstroem, K, Gonzales-Avalos, E, Merkel, A, Kretzmer, H, Fischer, J, Krämer, S, Iskar, M, Wolf, S, Buchhalter, I, Esteller, M, Lawerenz, C, Twardziok, S, Zapatka, M, Hovestadt, V, Schlesner, M, Schulz, M, Hoffmann, S, Gerhauser, C, Walter, J, Hartmann, M, Lipka, DB, Assenov, Y, Bock, C, Plass, C, Toth, R, Lutsik, P ***Pipeline Olympics: continuable benchmarking of computational workflows for DNA methylation sequencing data against an experimental gold-standard*** Nucleic Acid Research 53:19, Oxford University Press, 2025. (IF: 16.8, 2024) \[[Article](https://academic.oup.com/nar/article/53/19/gkaf970/8294356)\]
 
 ### 2024
 
@@ -77,7 +76,7 @@ nav:
 :blue_book: Saha, E‡, Fanfani, V‡, Mandros, P, Guebila, MB, Fischer, J, Shutta, KH, Glass, K, DeMeo, DL, Lopes-Ramos, CM, Quackenbush, J, ***Bayesian inference of sample-specific coexpression networks*** Genome Research, CSHL, 2024. (IF: 6.70, 2022) \[[PDF](https://genome.cshlp.org/content/early/2024/08/10/gr.279117.124.full.pdf)\]\
 ‡equal contribution
 
-:blue_book: Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** Biology of Sex Differences 15(62), 2024. (IF: 8.24, 2022) \[[preprint](https://www.biorxiv.org/content/10.1101/2023.09.22.559001v1)\] \[[Article](https://link.springer.com/article/10.1186/s13293-024-00634-y)\]
+:blue_book: Saha, E, Guebila, MB, Fanfani, V, Fischer, J, Shutta, KH, Mandros, P, DeMeo, DL, Quackenbush, J, Lopes-Ramos, CM, ***Gene regulatory Networks Reveal Sex Difference in Lung Adenocarcinoma*** Biology of Sex Differences 15(62), 2024. (IF: 8.24, 2022) \[[Article](https://link.springer.com/article/10.1186/s13293-024-00634-y)\] \[[Article](https://link.springer.com/article/10.1186/s13293-024-00634-y)\]
 
 
 :blue_book: Hossain, I, Fanfani, V, Fischer, J, Quackenbush, J, Burkholz, J, ***Biologically informed NeuralODEs for genome-wide regulatory dynamics*** Genome Biology 25(127), BMC, 2024. (IF: 17.4, 2022) \[[Article](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03264-0)\]
