@@ -9,7 +9,7 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
-{% capture news15 %}
+{% capture news14 %}
  9/26 At NeurIPS main conference we will present how to properly steer flow-based diffusion models with *Steering Fields*, a work by Simone. Moreover, we will present *TrackTok*, a tokenizer for video diffusion that implicitly encodes semantics, hence requiring less tokens to encode a scene, enabling good generation when efficiency is a prime target. This work is presented by Nhi. At the VLM4RWD workshop we also introduce a new benchmark, *OneScene-Bench*, that evaluates LVLM reasoning in new, challenging scene settings, identifying significant gaps in SOTA LVLMs. This work was done by Swathi.
 {% endcapture %}
 
@@ -66,6 +66,13 @@ This is the home of the Explainable Machine Learning research group of the Depar
 {% capture news1 %}
  1/1/24 *The Explainable Machine Learning Group was founded.*
 {% endcapture %}
+
+{%
+  include alert.html
+  type="info"
+  content=news14
+%}
+
 
 {%
   include alert.html
