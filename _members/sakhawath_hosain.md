@@ -2,7 +2,7 @@
 name: Sakhawat Hosain Sumit
 image: images/Sakhawath_Hosain.jpg
 description: Master Student
-role: master
+role: alumni
 # links:\
 #   github: todo
 #   twitter: todo

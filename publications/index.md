@@ -7,17 +7,24 @@ nav:
 
 ### 2026
 
+:page_facing_up: Pham, N, Wewer, C, Schiele, B, Fischer, J*, Lensse, JE*, ***TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens*** accepted at NeurIPS 2026.\
+\*equal contribution
 
-:page_facing_up: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***CFM: Language-aligned Concept Foundation Model for Vision*** accepted at ECCV 2026. \[[preprint](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
+:page_facing_up: Facchiano, S, Lenssen, JE, Schiele, B, Stammer, W*, Galasso, F*, Fischer, J*, ***Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond*** accepted at NeurIPS 2026.\
+\*equal contribution
 
-:page_facing_up: Żukowska, N, Stammer, W, Schiele, B, Fischer, J, ***Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers*** accepted at ECCV 2026. \[[preprint](https://arxiv.org/abs/2604.14477)\]
+:page_facing_up: Suhas, S, Das, A, Fischer, J, ***OneScene-Bench: Do Vision-Language Models Integrate Evidence Across Views?*** accepted at NeurIPS VLM4RWS workshop 2026.
 
-:page_facing_up: Walter, NP, Vreeken, J, Fischer, J, ***Hidden in Plain Sight – Class Competition Focuses Attribution Maps*** accepted at ICML 2026. \[[preprint](https://arxiv.org/abs/2503.07346)\] \[[project page](https://nilspwalter.github.io/var-page/)\]
+:page_facing_up: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***CFM: Language-aligned Concept Foundation Model for Vision*** accepted at ECCV 2026. \[[Article](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
+
+:page_facing_up: Żukowska, N, Stammer, W, Schiele, B, Fischer, J, ***Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers*** accepted at ECCV 2026. \[[Article](https://link.springer.com/chapter/10.1007/978-3-032-37393-9_11)\]
+
+:page_facing_up: Walter, NP, Vreeken, J, Fischer, J, ***Hidden in Plain Sight – Class Competition Focuses Attribution Maps*** accepted at ICML 2026. \[[PDF](https://openreview.net/forum?id=DSZ36ji3Y6)\] \[[project page](https://nilspwalter.github.io/var-page/)\]
 
 :page_facing_up: Anani, A, Lorenz, T, Schiele, B, Fritz, M\*, Fischer, J\*, ***Certified Circuits: Stability Guarantees for Mechanistic Circuits*** accepted at ICML 2026. \[[preprint](https://arxiv.org/abs/2602.22968)\] \[[project page](https://alaaanani.github.io/certified-circuits)\]\
 \*equal contribution
 
-:page_facing_up: Paulus, L, Fischer, J, Vreeken, J, ***Differentiably Discovering Sets of Rules*** accepted at KDD 2026. \[[Publication](https://dl.acm.org/doi/10.1145/3770855.3817887)\]
+:page_facing_up: Paulus, L, Fischer, J, Vreeken, J, ***Differentiably Discovering Sets of Rules*** accepted at KDD 2026. \[[Article](https://dl.acm.org/doi/10.1145/3770855.3817887)\]
 
 :page_facing_up: Sammani, F, Fischer, J, Deligiannis, N, ***CLIP-Free, Label Free, Unsupervised Concept Bottleneck Models*** accepted at CVPR Findings 2026. \[[preprint](https://arxiv.org/abs/2503.10981)\]
 

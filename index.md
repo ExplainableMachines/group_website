@@ -9,17 +9,21 @@ This is the home of the Explainable Machine Learning research group of the Depar
 
 ## News
 
+{% capture news15 %}
+ 9/26 At NeurIPS main conference we will present how to properly steer flow-based diffusion models with *Steering Fields*, a work by Simone. Moreover, we will present *TrackTok*, a tokenizer for video diffusion that implicitly encodes semantics, hence requiring less tokens to encode a scene, enabling good generation when efficiency is a prime target. This work is presented by Nhi. At the VLM4RWD workshop we also introduce a new benchmark, *OneScene-Bench*, that evaluates LVLM reasoning in new, challenging scene settings, identifying significant gaps in SOTA LVLMs. This work was done by Swathi.
+{% endcapture %}
+
 {% capture news13 %}
- 6/25 At ECCV we will present how to discover more *faithful mechanistic circuits* in vision models, and how to use them for *safety steering*, presented by Nina. We will further present our work on a *Concept Foundation Model*, for the first time enabling concept-based explanations for *any* down-stream task, including fine-grained vision tasks or LVLM reasoning, not just classification. This work is presented by Kai. What a year, great job all!
+ 6/26 At ECCV we will present how to discover more *faithful mechanistic circuits* in vision models, and how to use them for *safety steering*, presented by Nina. We will further present our work on a *Concept Foundation Model*, for the first time enabling concept-based explanations for *any* down-stream task, including fine-grained vision tasks or LVLM reasoning, not just classification. This work is presented by Kai. What a year, great job all!
 {% endcapture %}
 
 
 {% capture news12 %}
- 5/25 Another two works published at top tier conferences! At ICML, happening this year in Seoul, we present how to improve *any* attribution method with a simple augmentation that better reflects the down-stream classification tasks, presented by Nils, and how to *provably certify* the robustness of mechanistic circuits, thereby improving OOD robustness in application, led by Alaa. Amazing works by amazing people!
+ 5/26 Another two works published at top tier conferences! At ICML, happening this year in Seoul, we present how to improve *any* attribution method with a simple augmentation that better reflects the down-stream classification tasks, presented by Nils, and how to *provably certify* the robustness of mechanistic circuits, thereby improving OOD robustness in application, led by Alaa. Amazing works by amazing people!
 {% endcapture %}
 
 {% capture news11 %}
- 2/25 Great to see two of our works at ICLR in Rio and one at CVPR as Findings in Denver. We discuss how to achieve at the same time robustness *and* Interpretability in *Cave*, led by Nhi, how to discover when concepts are fixed during diffusion and how to exploit this for editing in *PCI*, led by Ada, and how to get CLIP-free, label-free Concept Bottleneck Models, led by Fawaz. Fantastic works!
+ 2/26 Great to see two of our works at ICLR in Rio and one at CVPR as Findings in Denver. We discuss how to achieve at the same time robustness *and* Interpretability in *Cave*, led by Nhi, how to discover when concepts are fixed during diffusion and how to exploit this for editing in *PCI*, led by Ada, and how to get CLIP-free, label-free Concept Bottleneck Models, led by Fawaz. Fantastic works!
 {% endcapture %}
 
 
