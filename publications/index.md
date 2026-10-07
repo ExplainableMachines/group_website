@@ -6,10 +6,10 @@ nav:
 ---
 
 ### 2026
-:page_facing_up: Facchiano, S, Lenssen, JE, Schiele, B, Stammer, W, Galasso, F\*, Fischer, J\*, ***Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond*** accepted at NeurIPS 2026. \[[preprint](https://arxiv.org/abs/2609.39573) \]\[[project page](https://simonefacchiano.github.io/steeringfields-projectpage/)\]\
+:page_facing_up: Facchiano, S, Lenssen, JE, Schiele, B, Stammer, W, Galasso, F\*, Fischer, J\*, ***Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond*** accepted at NeurIPS 2026. \[[preprint](https://arxiv.org/abs/2609.39573)\] \[[project page](https://simonefacchiano.github.io/steeringfields-projectpage/)\]\
 \*equal contribution
 
-:page_facing_up: Pham, N, Wewer, C, Schiele, B, Fischer, J\*, Lensse, JE\*, ***TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens*** accepted at NeurIPS 2026.\
+:page_facing_up: Pham, N, Wewer, C, Schiele, B, Fischer, J\*, Lenssen, JE\*, ***TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens*** accepted at NeurIPS 2026.\
 \*equal contribution
 
 :page_facing_up: Suhas, S, Das, A, Fischer, J, ***OneScene-Bench: Do Vision-Language Models Integrate Evidence Across Views?*** accepted at NeurIPS VLM4RWS workshop 2026.
