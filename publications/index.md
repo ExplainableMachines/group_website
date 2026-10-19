@@ -35,6 +35,8 @@ nav:
 
 :memo: Bagci, D, Schiele, B, Schaub-Meyer, S, Fischer, J, Hesse, R, ***Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance*** peprint: arXiv:2605.31304, 2026. \[[preprint](https://arxiv.org/abs/2605.31304)\]
 
+:memo: Micheletti, S, Fanfani, V, Vogt, J, Quackenbush, J, Fischer, J\*, Marx, A\*, Mandros, P\*, ***Large-scale, interpretable gene regulatory network inference through biologically informed matrix factorization*** peprint: bioRxiv:10.64898/2026.07.15.738791v1, 2026. \[[preprint](https://www.biorxiv.org/content/10.64898/2026.07.15.738791.full.pdf)\]
+\*equal contribution
 
 :blue_book: Guebila, MB et al. ***A protocol for deploying a JupyterHub server for academic research using Netbooks as example*** Current Protocols, DOI 10.1002/cpz1.70396 Wiley, 2026. \[[Article](https://currentprotocols.onlinelibrary.wiley.com/doi/10.1002/cpz1.70396)\]
 
