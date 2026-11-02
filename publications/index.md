@@ -33,6 +33,8 @@ nav:
 :page_facing_up: Görgün, A‡, Sammani, F‡, Deligiannis, N, Schiele, B, Fischer, J, ***Temporal Concept Dynamics In Diffusion Models Via Prompt-Conditioned Interventions*** accepted at ICLR 2026. \[[preprint](https://arxiv.org/pdf/2512.08486)\] \[[project page](https://adagorgun.github.io/PCI-Project/)\]\
 ‡equal contribution
 
+:memo: Thien, DL, Nguyen, V, Quang, PT, Pham, N, Wewer, C, Nguyen, M, Tran, HH, Le, T, Luu, TM, Le, DD, Duong, VN, Fischer, J, Le, N, Le, AT, Sonntag, D, Lee, GH, Zou, J, Niepert, M, Peters, J, Nguyen, DMH, Vien, NA, ***RoboWorM: Evaluating Movement Realism, Consistency and Acceleration Affects in Embodied Video World Models*** peprint: arXiv:2610.33807, 2026. \[[preprint](https://arxiv.org/abs/2610.33807)\]
+
 :memo: Bagci, D, Schiele, B, Schaub-Meyer, S, Fischer, J, Hesse, R, ***Interpretability Without Tradeoffs: Disentangling Polysemanticity At Equal Predictive Performance*** peprint: arXiv:2605.31304, 2026. \[[preprint](https://arxiv.org/abs/2605.31304)\]
 
 :memo: Micheletti, S, Fanfani, V, Vogt, J, Quackenbush, J, Fischer, J\*, Marx, A\*, Mandros, P\*, ***Large-scale, interpretable gene regulatory network inference through biologically informed matrix factorization*** peprint: bioRxiv:10.64898/2026.07.15.738791v1, 2026. \[[preprint](https://www.biorxiv.org/content/10.64898/2026.07.15.738791.full.pdf)\]
