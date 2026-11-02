@@ -9,12 +9,12 @@ nav:
 :page_facing_up: Facchiano, S, Lenssen, JE, Schiele, B, Stammer, W, Galasso, F\*, Fischer, J\*, ***Steering Fields: Adaptive Vector Fields for Safe Image Generation and Beyond*** accepted at NeurIPS 2026. \[[preprint](https://arxiv.org/abs/2609.39573)\] \[[project page](https://simonefacchiano.github.io/steeringfields-projectpage/)\]\
 \*equal contribution
 
-:page_facing_up: Pham, N, Wewer, C, Schiele, B, Fischer, J\*, Lenssen, JE\*, ***TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens*** accepted at NeurIPS 2026.\
+:page_facing_up: Pham, N, Wewer, C, Schiele, B, Fischer, J\*, Lenssen, JE\*, ***TrackTok: Object-Centric Video Tokenization with Semantically Persistent Tokens*** accepted at NeurIPS 2026. \[[preprint](https://arxiv.org/abs/2610.33857v1)\]\
 \*equal contribution
 
-:page_facing_up: Suhas, S, Das, A, Fischer, J, ***OneScene-Bench: Do Vision-Language Models Integrate Evidence Across Views?*** accepted at NeurIPS VLM4RWS workshop 2026.
+:page_facing_up: Suhas, S, Das, A, Fischer, J, ***OneScene-Bench: Do Vision-Language Models Integrate Evidence Across Views?*** accepted at NeurIPS VLM4RWS workshop 2026. \[[PDF](https://arxiv.org/pdf/2610.38926v1)\] \[[code](https://github.com/swathisuhas/OneScene-Bench)\]
 
-:page_facing_up: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***CFM: Language-aligned Concept Foundation Model for Vision*** accepted at ECCV 2026. \[[Article](https://arxiv.org/abs/2601.13798)\] \[[Code](https://github.com/kawi19/Insight)\]
+:page_facing_up: Wittenmayer, K, Rao, S, Parchami-Araghi, A, Schiele, B, Fischer, J, ***CFM: Language-aligned Concept Foundation Model for Vision*** accepted at ECCV 2026. \[[Article](https://arxiv.org/abs/2601.13798)\] \[[code](https://github.com/kawi19/Insight)\]
 
 :page_facing_up: Żukowska, N, Stammer, W, Schiele, B, Fischer, J, ***Seeing Through Circuits: Faithful Mechanistic Interpretability for Vision Transformers*** accepted at ECCV 2026. \[[Article](https://link.springer.com/chapter/10.1007/978-3-032-37393-9_11)\]
 
@@ -42,7 +42,7 @@ nav:
 
 ### 2025
 
-:page_facing_up: Parchami-Araghi, A, Rao, S, Fischer, J\*, Schiele, B\*, ***FaCT: Faithful Concept Traces for Explaining Neural Network Decisions*** accepted at NeurIPS 2025. (24.5% acceptence rate) \[[PDF](https://papers.nips.cc/paper_files/paper/2025/file/b115c688cbc8c3402f56b26333c7c53a-Paper-Conference.pdf)\] \[[Code](https://github.com/m-parchami/FaCT)\]\
+:page_facing_up: Parchami-Araghi, A, Rao, S, Fischer, J\*, Schiele, B\*, ***FaCT: Faithful Concept Traces for Explaining Neural Network Decisions*** accepted at NeurIPS 2025. (24.5% acceptence rate) \[[PDF](https://papers.nips.cc/paper_files/paper/2025/file/b115c688cbc8c3402f56b26333c7c53a-Paper-Conference.pdf)\] \[[code](https://github.com/m-parchami/FaCT)\]\
 \*equal contribution
 
 :page_facing_up: Görgün, A, Schiele, B, Fischer, J, ***VITAL: More Understandable Feature Visualization through Distribution Alignment and Relevant Information Flow*** accepted at ICCV 2025. (24% acceptance rate) \[[PDF](https://openaccess.thecvf.com/content/ICCV2025/papers/Gorgun_VITAL_More_Understandable_Feature_Visualization_through_Distribution_Alignment_and_Relevant_ICCV_2025_paper.pdf)\] \[[project page](https://adagorgun.github.io/VITAL-Project/)\]
